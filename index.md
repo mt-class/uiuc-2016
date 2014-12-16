@@ -8,4 +8,4 @@ active_tab: main_page
 ---
 
 Instructor
-: [Chris Callison-Burch](http://www.cis.upenn.edu/~ccb/) - Office hours on Mondays from 10:30am-11:30am in Levine 506
+: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
