@@ -23,10 +23,10 @@ real-word artificial intelligence problem.
 
 
 Instructor
-: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in Foreign Languages Building, room 4019
+: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
 Time and place
-: Tuesdays and Thursdays 12:30-1:50pm, [Illini Hall 23](https://www.cites.illinois.edu/ics/illini_hall.html)
+: Tuesdays and Thursdays 12:30-1:50pm, [Illini Hall](https://www.fs.uiuc.edu/ada/0065.html) [room 23](https://www.cites.illinois.edu/ics/illini_hall.html)
 
 Textbook
 : [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
