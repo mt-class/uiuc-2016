@@ -1,0 +1,3 @@
+exclude: ['README.md']
+timezone: US/Central
+markdown: kramdown
