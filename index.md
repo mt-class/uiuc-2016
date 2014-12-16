@@ -12,11 +12,12 @@ Instructor
 
 
 <br/>
-<br/>
+
 
 LING 490
 : [Machine Translation: History and Applications](ling490.html)
 
+<br/>
 
 LING 506
 : [Statistical Machine Translation](ling506.html)
