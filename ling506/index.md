@@ -31,7 +31,7 @@ Time and place
 Textbook
 : [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
 by <a href="http://homepages.inf.ed.ac.uk/pkoehn/">Philipp Koehn</a> 
-You can purchase <a href="http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157">the Statistical Machine Translation textbook from Amazon</a>, or <a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/9781139637565">access it online</a through the UIUC library.
+You can purchase <a href="http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157">the Statistical Machine Translation textbook from Amazon</a>, or <a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/9781139637565">access it online</a> through the UIUC library.
 
 Grading
 : To understand how machine translation works, you must build a translation system.
