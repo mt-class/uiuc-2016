@@ -1,8 +1,12 @@
 -
   date: 2014-01-20
   title: Introduction
-  lecturer: Callison-Burch
+  lecturer: Lane Schwartz
   slides: http://mt-class.org/penn/slides/1-intro.pdf 
+-
+  date: 2014-01-22
+  title: Introduction
+  lecturer: Lane Schwartz
   reading:
     -
       author: Koehn 
@@ -22,10 +26,6 @@
       title: Translation
       url: http://www.stanford.edu/~mjkay/CurrentState.pdf
       optional: true
--
-  date: 2014-01-22
-  title: No class today (canceled due to snow)
-  lecturer: None
 -
   date: 2014-01-27
   title: Probability and Statistics 
