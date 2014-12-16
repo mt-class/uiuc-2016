@@ -11,6 +11,9 @@ Instructor
 : [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
 
+<br/>
+<br/>
+
 LING 490
 : [Machine Translation: History and Applications](ling490.html)
 
