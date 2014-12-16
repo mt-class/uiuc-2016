@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ling506_frame
 img: do_not_want
 img_link: http://winterson.com/2005/06/episode-iii-backstroke-of-west.html
 title: Syllabus
