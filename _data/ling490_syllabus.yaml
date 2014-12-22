@@ -12,6 +12,16 @@
       title:  The history of machine translation in a nutshell
       url: http://www.mt-archive.info/10/Hutchins-2014.pdf  
     -
+      author: Hutchins
+      title:  Two precursors of machine translation: Artsrouni and Trojanskij
+      url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf  
+      
+-
+  date: 2014-01-27
+  title: Machine Translation in the 1940s 
+  lecturer: Lane Schwartz
+  reading:
+    -
       author: Weaver & Wiener
       title:  Correspondence
       url: http://www.mt-archive.info/50/Weaver-1947-original.pdf
@@ -23,16 +33,6 @@
       author: Weaver
       title: Translation
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
-      
--
-  date: 2014-01-27
-  title: Probability and Statistics 
-  slides: http://mt-class.org/penn/slides/2-probability.pdf
-  lecturer: Callison-Burch 
-  reading:
-    -
-      author: Koehn 
-      title: chapters 3
 -
   date: 2014-01-29
   title: Language Models
