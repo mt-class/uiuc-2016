@@ -1,7 +1,7 @@
 ---
 layout: ling490_frame
 img: do_not_want
-img_link: http://winterson.com/2005/06/episode-iii-backstroke-of-west.html
+img_link: assets/img/bruegel_babel.jpg
 title: Syllabus
 active_tab: syllabus
 ---
