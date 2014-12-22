@@ -1,7 +1,7 @@
 ---
 layout: ling490_frame
-img: do_not_want
-img_link: assets/img/bruegel_babel.jpg
+img: assets/img/bruegel_babel.jpg
+img_link: http://en.wikipedia.org/wiki/Tower_of_babel
 title: Syllabus
 active_tab: syllabus
 ---
