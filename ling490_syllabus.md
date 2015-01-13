@@ -15,7 +15,7 @@ active_tab: syllabus
     <tr>
       <th>Date</th>
       <th>Topic</th>
-      <th>Readings (<i class="fa-li fa fa-star"></i>=graduate level; <i class="fa-li fa fa-asterisk"></i>=optional)</th>
+      <th>Readings (<i class="fa fa-star"></i>=graduate level; <i class="fa fa-asterisk"></i>=optional)</th>
     </tr>
     {% for lecture in site.data.ling490_syllabus %}
     <tr>
