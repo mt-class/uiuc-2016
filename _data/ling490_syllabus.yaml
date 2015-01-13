@@ -170,24 +170,6 @@
       url: http://www.mt-archive.info/50/MT-1956-King.pdf
 -
   date: 2014-02-19
-  title: The ALPAC Report
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hutchins
-      title: ALPAC - the (in)famous report
-      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
-    -
-      author: ALPAC
-      title: Language and Machines - Computers in Translation and Linguistics
-      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
-      pages: 1-35
--
-  date: 2014-02-24
-  title: TBD
-  lecturer: Lane Schwartz
--
-  date: 2014-02-26
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -201,7 +183,7 @@
       url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
       optional: true
 -
-  date: 2014-03-03
+  date: 2014-02-24
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -226,7 +208,24 @@
       title: Chinese room argument
       url: http://www.scholarpedia.org/article/Chinese_room_argument
       optional: true
-      
+-
+  date: 2014-02-26 
+  title: The ALPAC Report
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: ALPAC - the (in)famous report
+      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
+    -
+      author: ALPAC
+      title: Language and Machines - Computers in Translation and Linguistics
+      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
+      pages: 1-35
+-
+  date: 2014-03-03
+  title: TBD
+  lecturer: Lane Schwartz
 -
   date: 2014-03-05
   title: TBD
