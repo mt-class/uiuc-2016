@@ -84,8 +84,24 @@
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
 -
   date: 2014-02-05
-  title: TBD
+  title: 1954 - MT Meets the Public
   lecturer: Lane Schwartz
+    -
+      author: New York Times
+      title: Russian is turned into English by a fast electronic translator
+      url: http://www.mt-archive.info/NYT-1954-Plumb.pdf
+    -
+      author: New York Herald Tribune
+      title: Electronic Linguistics
+      url: http://www.mt-archive.info/NYHT-1954-2.pdf
+    -
+      author: Toronto Globe and Mail
+      title: Electronic Translations Possible in Five Years
+      url: http://www.mt-archive.info/GlobeMail-1954.pdf
+    -
+      author: IBM Press Release
+      title:  701 Translator
+      url: http://www.mt-archive.info/IBM-1954.pdf    
 -
   date: 2014-02-10
   title: TBD
