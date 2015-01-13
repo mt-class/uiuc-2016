@@ -50,5 +50,3 @@ active_tab: syllabus
 
   </tbody>
 </table>
-
-Many of the lectures from this course were adapted (or stolen wholesale) from [Chris Dyer](http://www.cs.cmu.edu/~cdyer/), [Adam Lopez](http://www.cs.jhu.edu/~alopez/), [Matt Post](http://cs.jhu.edu/~post/), and [Chris Callison-Burch](http://www.cis.upenn.edu/~ccb).  I am grateful to them for making their lecture materials available. 
