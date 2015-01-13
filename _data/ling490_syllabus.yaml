@@ -20,16 +20,21 @@
       author: Wilkins
       title: An Essay Towards a Real Character and a Philosophical Language (Ch. 1.5)
       url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:7.5?rgn=div2;view=fulltext
+      grad_level: true
+    -
+      author: Swift
+      title: Gulliver's Travels (Ch. 3.5)
+      url: papers/1726_Gullivers_Travels_pt3_ch5_excerpt.pdf
+      grad_level: true
+    -
+      author: Couturat
+      title: The Logic of Leibniz
+      url: https://web.archive.org/web/20070123230920/http://philosophy2.ucsd.edu/~rutherford/Leibniz/ch3.htm
       optional: true
     -
       author: Wilkins
       title: An Essay Towards a Real Character and a Philosophical Language (Ch. 2.1)
       url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:8.1?rgn=div2;view=fulltext
-      optional: true
-    -
-      author: Swift
-      title: Gulliver's Travels (Ch. 3.5)
-      url: papers/1726_Gullivers_Travels_pt3_ch5_excerpt.pdf
       optional: true
 -
   date: 2014-01-27

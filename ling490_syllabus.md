@@ -15,7 +15,7 @@ active_tab: syllabus
     <tr>
       <th>Date</th>
       <th>Topic</th>
-      <th>Readings (starred=graduate level)</th>
+      <th>Readings (<i class="fa-li fa fa-star"></i>=graduate level; <i class="fa-li fa fa-asterisk"></i>=optional)</th>
     </tr>
     {% for lecture in site.data.ling490_syllabus %}
     <tr>
@@ -32,7 +32,8 @@ active_tab: syllabus
           <ul class="fa-ul">
           {% for reading in lecture.reading %}
             <li>
-            {% if reading.optional %}<i class="fa-li fa fa-star"> </i>
+            {% if reading.grad_level %}<i class="fa-li fa fa-star"> </i>
+            {% elsif reading.optional %}<i class="fa-li fa fa-asterisk"> </i>
             {% else %}<i class="fa-li fa"> </i> {% endif %}
             {{ reading.author }},
             {% if reading.url %}
