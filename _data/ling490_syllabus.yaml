@@ -102,6 +102,23 @@
       grad_level: true
 -
   date: 2014-02-10
+  title: 1951-1952 - Academic MT Research Begins
+  lecturer: Lane Schwartz
+    -
+      author: Hutchins
+      title: Milestones in MT - Bar-Hillel's survey
+      url: http://www.hutchinsweb.me.uk/Milestones-3.pdf
+    -
+      author: Bar-Hillel
+      title: The Present State of Research on Mechanical Translation
+      url: http://www.mt-archive.info/Bar-Hillel-1951.pdf
+      grad_level: true
+    -
+      author: Hutchins
+      title: Milestones in MT - The first machine translation conference
+      url: http://www.hutchinsweb.me.uk/Milestones-4.pdf
+-
+  date: 2014-02-12
   title: 1954 - MT Meets the Public
   lecturer: Lane Schwartz
     -
@@ -120,10 +137,6 @@
       author: IBM Press Release
       title:  701 Translator
       url: http://www.mt-archive.info/IBM-1954.pdf    
--
-  date: 2014-02-12
-  title: TBD
-  lecturer: Lane Schwartz
 -
   date: 2014-02-17
   title: TBD
