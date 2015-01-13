@@ -37,7 +37,6 @@
       url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:8.1?rgn=div2;view=fulltext
       optional: true
 -
-
   date: 2014-01-27
   title: Constructed languages in the 18th-21st centuries
   lecturer: Lane Schwartz
@@ -50,6 +49,11 @@
       author: Heinlein
       title:  Gulf
       url: http://www.baenebooks.com/chapters/9781451637854B/9781451637854B___2.htm
+      optional: true
+    -
+      author: Gode
+      title: Interlingua
+      url: http://onlinelibrary.wiley.com/doi/10.1111/j.1460-2466.1955.tb01101.x/pdf
       optional: true
 -
   date: 2014-01-29
@@ -89,7 +93,7 @@
     -
       author: Weaver
       title: The Mathematics of Communications
-      url:
+      url: http://www.mt-archive.info/50/SciAm-1949-Weaver.pdf
     -
       author: Chiu, et al
       title: Mathematical Theory of Claude Shannon
@@ -117,6 +121,11 @@
       author: Hutchins
       title: Milestones in MT - The first machine translation conference
       url: http://www.hutchinsweb.me.uk/Milestones-4.pdf
+    -
+      author: Reifler
+      title: The First Conference on Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1954-Reifler.pdf
+      optional: true
 -
   date: 2014-02-12
   title: 1954 - MT Meets the Public
@@ -139,8 +148,22 @@
       url: http://www.mt-archive.info/IBM-1954.pdf    
 -
   date: 2014-02-17
-  title: TBD
+  title: 1954-1966 The Decade of Optimism
   lecturer: Lane Schwartz
+    -
+      author: Yngve
+      title: Sentence-for-sentence translation
+      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
+      grad_level: true
+    -
+      author: Parker-Rhodes
+      title: An Electronic Computer Program for Translating Chinese into English
+      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
+      optional: true
+    -
+      author: King
+      title: Stochastic Methods of Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1956-King.pdf
 -
   date: 2014-02-19
   title: The ALPAC Report
@@ -239,8 +262,16 @@
   lecturer: Lane Schwartz
 -
   date: 2014-04-16
-  title: TBD
+  title: Evaluating Machine Translation
   lecturer: Lane Schwartz
+  -
+    author: Miller, et al
+    title: Some Psychological Methods for Evaluating the Quality of Translations
+    url: http://www.mt-archive.info/50/MT-1956-Miller.pdf
+  -
+    author: Papineni, et al
+    title: BLEU - A Method for Automatic Evaluation of Machine Translation
+    url: http://www.aclweb.org/anthology/P02-1040.pdf
 -
   date: 2014-04-21
   title: TBD
