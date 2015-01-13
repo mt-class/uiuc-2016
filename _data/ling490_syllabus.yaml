@@ -151,25 +151,6 @@
       url: http://www.mt-archive.info/IBM-1954.pdf    
 -
   date: 2014-02-17
-  title: 1954-1966 The Decade of Optimism
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Yngve
-      title: Sentence-for-sentence translation
-      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
-      grad_level: true
-    -
-      author: Parker-Rhodes
-      title: An Electronic Computer Program for Translating Chinese into English
-      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
-      optional: true
-    -
-      author: King
-      title: Stochastic Methods of Mechanical Translation
-      url: http://www.mt-archive.info/50/MT-1956-King.pdf
--
-  date: 2014-02-19
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -183,7 +164,7 @@
       url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
       optional: true
 -
-  date: 2014-02-24
+  date: 2014-02-19
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -209,8 +190,27 @@
       url: http://www.scholarpedia.org/article/Chinese_room_argument
       optional: true
 -
+  date: 2014-02-24
+  title: 1954-1966 The Decade of Optimism
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Yngve
+      title: Sentence-for-sentence translation
+      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
+      grad_level: true
+    -
+      author: Parker-Rhodes
+      title: An Electronic Computer Program for Translating Chinese into English
+      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
+      optional: true
+    -
+      author: King
+      title: Stochastic Methods of Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1956-King.pdf
+-
   date: 2014-02-26 
-  title: The ALPAC Report
+  title: 1966 - The ALPAC Report
   lecturer: Lane Schwartz
   reading:
     -
