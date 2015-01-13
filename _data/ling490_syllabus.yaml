@@ -138,12 +138,43 @@
   lecturer: Lane Schwartz
 -
   date: 2014-02-26
-  title: TBD
+  title: AI and the Turing Test
   lecturer: Lane Schwartz
+    -
+      author: Turing
+      title: Computing Machinery and Intelligence
+      url: http://mind.oxfordjournals.org/content/LIX/236/433
+    -
+      author: Weizenbaum
+      title: ELIZA - A Computer Program For the Study of Natural Language Communication Between Man And Machine
+      url: http://delivery.acm.org.proxy2.library.illinois.edu/10.1145/360000/357991/p23-weizenbaum.pdf
+      optional: true
 -
   date: 2014-03-03
-  title: TBD
+  title: The Chinese Room
   lecturer: Lane Schwartz
+    -
+      author: Searle
+      title: Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      pages: 417-423
+    -
+      author: Abelson, et al
+      title: Peer Commentary to Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      grad_level: true
+      pages: 423-450
+    -
+      author: Searle
+      title: Author's Response to Peer Commentary to Minds, Brains, and Programs
+      url: http://journals.cambridge.org.proxy2.library.illinois.edu/download.php?file=%2FBBS%2FBBS3_03%2FS0140525X00005756a.pdf
+      pages: 450-456
+    -
+      author: Searle
+      title: Chinese room argument
+      url: http://www.scholarpedia.org/article/Chinese_room_argument
+      optional: true
+      
 -
   date: 2014-03-05
   title: TBD
