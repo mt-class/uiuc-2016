@@ -2,7 +2,7 @@
 layout: main
 img: rosetta_stone
 img_link: http://en.wikipedia.org/wiki/Rosetta_Stone
-picture: ghi
+img_credit: ghijkl
 caption: The Rosetta Stone, an early parallel text
 title: Course Information
 active_tab: main_page 
@@ -25,3 +25,5 @@ LING 506
 abc
 
 def
+
+mno
