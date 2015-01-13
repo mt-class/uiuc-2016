@@ -84,6 +84,24 @@
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
 -
   date: 2014-02-05
+  title: 194
+  lecturer: Lane Schwartz
+    -
+      author: Weaver
+      title: The Mathematics of Communications
+      url:
+    -
+      author: Chiu, et al
+      title: Mathematical Theory of Claude Shannon
+      url: http://web.mit.edu/6.933/www/Fall2001/Shannon1.pdf
+      optional: true
+    -
+      author: Shannon
+      title: A Mathematical Theory of Communication
+      url: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
+      grad_level: true
+-
+  date: 2014-02-10
   title: 1954 - MT Meets the Public
   lecturer: Lane Schwartz
     -
@@ -102,10 +120,6 @@
       author: IBM Press Release
       title:  701 Translator
       url: http://www.mt-archive.info/IBM-1954.pdf    
--
-  date: 2014-02-10
-  title: TBD
-  lecturer: Lane Schwartz
 -
   date: 2014-02-12
   title: TBD
