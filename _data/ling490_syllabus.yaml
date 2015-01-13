@@ -49,6 +49,11 @@
       author: Foer
       title:  Utopian for Beginners
       url: http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners
+    -
+      author: Heinlein
+      title:  Gulf
+      url: http://www.baenebooks.com/chapters/9781451637854B/9781451637854B___2.htm
+      optional: true
 -
   date: 2014-01-29
   title: Machine Translation in the 1930s
