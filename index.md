@@ -21,9 +21,3 @@ LING 490
 
 LING 506
 : [Statistical Machine Translation](ling506.html)
-
-abc
-
-def
-
-mnopq
