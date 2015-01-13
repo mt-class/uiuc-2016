@@ -33,7 +33,7 @@ active_tab: syllabus
           {% for reading in lecture.reading %}
             <li>
             {% if reading.grad_level %}<i class="fa-li fa fa-graduation-cap"> </i>
-            {% elsif reading.optional %}<i class="fa-li fa fa-asterisk"> </i>
+            {% elsif reading.optional %}<i class="fa-li fa fa-info-circle"> </i>
             {% else %}<i class="fa-li fa"> </i> {% endif %}
             {{ reading.author }},
             {% if reading.url %}
