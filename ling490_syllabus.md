@@ -2,6 +2,8 @@
 layout: ling490_frame
 img: bruegel_babel
 img_link: http://en.wikipedia.org/wiki/Tower_of_babel
+img_credit: Image by Pieter Brueghel the Elder (1526/1530–1569). Public Domain via Wikimedia Commons.
+caption: The Tower of Babel
 title: Syllabus
 active_tab: syllabus
 ---
