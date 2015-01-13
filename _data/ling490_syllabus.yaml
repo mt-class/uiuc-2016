@@ -3,6 +3,9 @@
   title: Introduction to Machine Translation
   lecturer: Lane Schwartz
 -
+
+
+-
   date: 2014-01-22
   title: Universal Language in the 17th century
   lecturer: Lane Schwartz
@@ -37,7 +40,17 @@
       url: http://quod.lib.umich.edu/e/eebo/A66045.0001.001/1:8.1?rgn=div2;view=fulltext
       optional: true
 -
+
   date: 2014-01-27
+  title: Constructed languages in the 18th-21st centuries
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Foer
+      title:  Utopian for Beginners
+      url: http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners
+-
+  date: 2014-01-29
   title: Machine Translation in the 1930s
   lecturer: Lane Schwartz
   reading:
@@ -51,7 +64,7 @@
       url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf  
       
 -
-  date: 2014-01-29
+  date: 2014-02-03
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
@@ -67,10 +80,6 @@
       author: Weaver
       title: Translation
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
--
-  date: 2014-02-03
-  title: TBD
-  lecturer: Lane Schwartz
 -
   date: 2014-02-05
   title: TBD
