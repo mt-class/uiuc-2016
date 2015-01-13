@@ -2,6 +2,7 @@
 layout: main
 img: rosetta_stone
 img_link: http://en.wikipedia.org/wiki/Rosetta_Stone
+picture: ghi
 caption: The Rosetta Stone, an early parallel text
 title: Course Information
 active_tab: main_page 
@@ -22,3 +23,5 @@ LING 506
 : [Statistical Machine Translation](ling506.html)
 
 abc
+
+def
