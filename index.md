@@ -1,8 +1,8 @@
 ---
 layout: main
-img: artsrouni
-img_link: http://www.hutchinsweb.me.uk/IJT-2004.pdf
-caption: Georges Artsrouni's mechanical brain, a translation device patented in 1933 in France.
+img: rosetta
+img_link: http://en.wikipedia.org/wiki/Rosetta_Stone
+caption: Rosetta Stone, an early parallel text
 title: Course Information
 active_tab: main_page 
 ---
