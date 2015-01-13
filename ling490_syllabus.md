@@ -40,6 +40,9 @@ active_tab: syllabus
             {% else %}
             {{ reading.title }} 
             {% endif %}
+            {% if reading.pages %}
+            (p. {{ reading.pages }})
+            {% endif %}
             </li>
           {% endfor %}
           </ul>

@@ -1,9 +1,19 @@
 -
-  date: 2014-01-20
-  title: Machine Translation in the 17th-19th centuries
+  date: 14-01-20
+  title: Introduction to Machine Translation
   lecturer: Lane Schwartz
 -
   date: 2014-01-22
+  title: Machine Translation in the 17th-19th centuries
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Descartes
+      title: Letter to Mersenne, 20 November 1629
+      pages: 6-8
+      url: http://www.earlymoderntexts.com/pdfs/descartes1619_1.pdf
+-
+  date: 2014-01-27
   title: Machine Translation in the 1930s
   lecturer: Lane Schwartz
   reading:
@@ -17,7 +27,7 @@
       url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf  
       
 -
-  date: 2014-01-27
+  date: 2014-01-29
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
@@ -33,10 +43,6 @@
       author: Weaver
       title: Translation
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
--
-  date: 2014-01-29
-  title: TBD
-  lecturer: Lane Schwartz
 -
   date: 2014-02-03
   title: TBD
