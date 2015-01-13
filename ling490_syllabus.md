@@ -54,3 +54,4 @@ active_tab: syllabus
 
   </tbody>
 </table>
+

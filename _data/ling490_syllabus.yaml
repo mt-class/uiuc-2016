@@ -130,8 +130,17 @@
   lecturer: Lane Schwartz
 -
   date: 2014-02-19
-  title: TBD
+  title: The ALPAC Report
   lecturer: Lane Schwartz
+    -
+      author: Hutchins
+      title: ALPAC - the (in)famous report
+      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
+    -
+      author: ALPAC
+      title: Language and Machines - Computers in Translation and Linguistics
+      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
+      pages: 1-35
 -
   date: 2014-02-24
   title: TBD
