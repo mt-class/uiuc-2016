@@ -385,8 +385,14 @@
       grad_level: true
 -
   date: 2014-04-28
-  title: TBD
+  title: Decoding
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 155-167
 -
   date: 2014-04-30
   title: TBD
