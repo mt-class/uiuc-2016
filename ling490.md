@@ -15,11 +15,9 @@ better? Modern translation systems like Google Translate,
 [Bing Translator](http://www.microsofttranslator.com/),
 and [SDL FreeTranslation](http://www.freetranslation.com/)
 *learn* to translate by reading millions of words of already 
-translated text. This course will show you how they work. 
-We cover fundamental building blocks from linguistics, 
-machine learning, algorithms, data structures, and formal 
-language theory, showing how they apply to a difficult
-real-word artificial intelligence problem.
+translated text. 
+
+This course will show you the rich history behind these systems, and what MT can be used for today.
 
 Instructor
 : [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
