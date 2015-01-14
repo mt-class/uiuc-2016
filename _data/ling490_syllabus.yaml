@@ -351,8 +351,13 @@
     url: http://www.aclweb.org/anthology/P02-1040.pdf
 -
   date: 2014-04-21
-  title: TBD
+  title: Statistical Word-Based MT
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Brown, et al
+      title: "A Statistical Approach to Language Translation"
+      url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
 -
   date: 2014-04-23
   title: TBD
