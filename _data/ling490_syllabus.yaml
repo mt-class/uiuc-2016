@@ -282,12 +282,12 @@
       author: NSA
       title: Cryptolog, 1st Issue 1991
       url: https://www.nsa.gov/public_info/_files/cryptologs/cryptolog_120.pdf
-      page: 3-7
+      pages: 3-7
     -
       author: NSA
       title: Cryptolog, 2nd Issue 1991
       url: https://www.nsa.gov/public_info/_files/cryptologs/cryptolog_121.pdf
-      page: 26
+      pages: 26
     -
       author: Reeder
       title: "At Your Service: Embedded MT As a Service"
