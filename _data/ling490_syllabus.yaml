@@ -246,6 +246,11 @@
   date: 2014-03-12
   title: TBD
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: "The whisky was invisible", or Persistent myths of MT
+      url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
 -
   date: 2014-03-17
   title: TBD
