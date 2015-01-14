@@ -360,7 +360,7 @@
   reading:
     -
       author: Koehn
-      title: "\"Word-Based Models\", Ch. 4.1 of \"Statistical Machine Translation\""
+      title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 81-87
     -
@@ -373,6 +373,11 @@
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 127-136
     -
       author: "Koehn, et al"
       title: "Statistical Phrase-Based Translation"
