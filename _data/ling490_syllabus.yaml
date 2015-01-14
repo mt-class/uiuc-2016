@@ -275,7 +275,7 @@
       url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
 -
   date: 2014-03-17
-  title: Gister and CyberTrans
+  title: "MT at NSA: Gister and CyberTrans"
   lecturer: Lane Schwartz
   reading:
     -
@@ -294,8 +294,13 @@
       url: http://www.aclweb.org/anthology/W00-0503
 -
   date: 2014-03-19
-  title: TBD
+  title: "MT in the U.S. Government"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Pedtke
+      title: "U.S. Government Support and Use of Machine Translation: Current Status"
+      url: http://mt-archive.info/MTS-1997-Pedtke.pdf
 -
   date: 2014-03-31
   title: Interlingual Machine Translation
