@@ -208,6 +208,14 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Hutchins
+      title: Milestones in MT - Bar-Hillel and the nonfeasibility of FAHQT
+      url: http://www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
+    -
+      author: Bar-Hillel
+      title: The Present Status of Automatic Translation of Languages
+      url: http://www.mt-archive.info/Bar-Hillel-1960.pdf
+    -
       author: Yngve
       title: Sentence-for-sentence translation
       url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
@@ -270,6 +278,11 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Delavenay
+      title: "Languages, Interlanguage, and Metalanguage" in An Introduction to Machine Translation (Ch. 4)
+      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
+      pages: 46-54
+    -
       author: Melby
       title: The Possibility of Language
       url: https://books.google.com/books?id=MdBAAAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
@@ -295,6 +308,10 @@
   title: Evaluating Machine Translation
   lecturer: Lane Schwartz
   reading:
+  -
+    author: Hutchins
+    title: Has machine translation improved? Some historical comparisons
+    url: http://www.mt-archive.info/00/MTS-2003-Hutchins.pdf
   -
     author: Miller, et al
     title: Some Psychological Methods for Evaluating the Quality of Translations
