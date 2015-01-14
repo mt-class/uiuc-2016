@@ -330,11 +330,16 @@
   lecturer: Lane Schwartz
 -
   date: 2014-04-09
-  title: TBD
+  title: MT at Autodesk
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: "Plitt & Masselot"
+      title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
+      url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
 -
   date: 2014-04-14
-  title: MT in the EU
+  title: MT in the E.U.
   lecturer: Lane Schwartz
 -
   date: 2014-04-16
