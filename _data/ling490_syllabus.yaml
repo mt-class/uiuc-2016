@@ -247,6 +247,11 @@
   date: 2014-03-03
   title: TBD
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Vauquois
+      title: "Automatic Translation - A Survey of Different Approaches"
+      url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
 -
   date: 2014-03-05
   title: TBD
@@ -279,7 +284,7 @@
   reading:
     -
       author: Delavenay
-      title: "\"Languages, Interlanguage, and Metalanguage\", in An Introduction to Machine Translation (Ch. 4)"
+      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
       url: http://www.mt-archive.info/50/Delavenay-1960.pdf
       pages: 46-54
     -
