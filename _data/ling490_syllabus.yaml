@@ -252,6 +252,10 @@
       author: Vauquois
       title: "Automatic Translation - A Survey of Different Approaches"
       url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
+    -
+      author: Dorr, et al
+      title: "A Survey of Current Paradigms in Machine Translation"
+      url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
 -
   date: 2014-03-05
   title: TBD
@@ -271,8 +275,23 @@
       url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
 -
   date: 2014-03-17
-  title: TBD
+  title: Gister and CyberTrans
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: NSA
+      title: Cryptolog, 1st Issue 1991
+      url: https://www.nsa.gov/public_info/_files/cryptologs/cryptolog_120.pdf
+      page: 3-7
+    -
+      author: NSA
+      title: Cryptolog, 2nd Issue 1991
+      url: https://www.nsa.gov/public_info/_files/cryptologs/cryptolog_121.pdf
+      page: 26
+    -
+      author: Reeder
+      title: "At Your Service: Embedded MT As a Service"
+      url: http://www.aclweb.org/anthology/W00-0503
 -
   date: 2014-03-19
   title: TBD
