@@ -142,6 +142,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Hutchins
+      title: Milestones in MT - The IBM-Georgetown Demonstration
+      url: http://www.mt-archive.info/90/LangToday-1999-Hutchins.pdf
+    -
       author: New York Times
       title: Russian is turned into English by a fast electronic translator
       url: http://www.mt-archive.info/NYT-1954-Plumb.pdf
@@ -156,7 +160,8 @@
     -
       author: IBM Press Release
       title:  701 Translator
-      url: http://www.mt-archive.info/IBM-1954.pdf    
+      url: http://www.mt-archive.info/IBM-1954.pdf
+      optional: true   
 -
   date: 2014-02-17
   title: AI and the Turing Test
