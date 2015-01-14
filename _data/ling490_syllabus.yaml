@@ -395,8 +395,13 @@
       pages: 155-167
 -
   date: 2014-04-30
-  title: TBD
+  title: Tree-Based Models
   lecturer: Lane Schwartz
+    -
+      author: Koehn
+      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 331-346
 -
   date: 2014-05-05
   title: TBD
