@@ -19,11 +19,17 @@ translated text.
 
 This course will show you the rich history behind these systems, and what MT can be used for today.
 
+<br/>
+
 Instructor
 : [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
+<br/>
+
 Time and place
 : Tuesdays and Thursdays 2:00-3:20pm, [Undergraduate Library](https://www.fs.uiuc.edu/ada/0099.html) [room 289](https://www.cites.illinois.edu/ics/undergrad_library.html)
+
+<br/>
 
 Textbook
 : [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
