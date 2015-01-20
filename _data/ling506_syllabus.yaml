@@ -2,7 +2,7 @@
   date: 2014-01-20
   title: Introduction
   lecturer: Lane Schwartz
-  slides: http://mt-class.org/penn/slides/1-intro.pdf 
+  slides: http://mt-class.org/uiuc/slides/1-intro.pdf 
 -
   date: 2014-01-22
   title: Introduction
@@ -29,7 +29,7 @@
 -
   date: 2014-01-27
   title: Probability and Statistics 
-  slides: http://mt-class.org/penn/slides/2-probability.pdf
+  slides: http://mt-class.org/uiuc/slides/2-probability.pdf
   lecturer: Callison-Burch 
   reading:
     -
