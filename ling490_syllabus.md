@@ -7,8 +7,24 @@ caption: The Tower of Babel
 title: Syllabus
 active_tab: syllabus
 ---
+<!--
+<h1 style="text-align:center;">LING 490 — Syllabus</h1>
+-->
+
+<p style="text-align:center;"><strong>Syllabus is subject to change</strong></p>
 
 
+<h2>Grading</h2>
+
+<ul>
+<li><b>Daily Participation</b>: 5%</li>
+<li><b>Daily Quizzes</b>: 5%</li>
+<li><b>Homework Assignments</b>: 70%</li>
+<li><b>Exam(s)</b>: 20%</li>
+</ul>
+
+
+<h2>Schedule and Readings</h2>
 
 <table class="table table-striped"> 
   <tbody>
