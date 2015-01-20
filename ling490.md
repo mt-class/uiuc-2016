@@ -22,7 +22,7 @@ This course will show you the rich history behind these systems, and what MT can
 <br/>
 
 Instructor
-: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Tuesdays and Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
+: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours on Thursdays from 3:30-4:45pm in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019
 
 <br/>
 
