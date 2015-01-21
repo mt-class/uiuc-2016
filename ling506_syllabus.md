@@ -82,7 +82,7 @@ For some or all homework assignments, the correct solution will be presented to 
           <ul class="fa-ul">
           {% for reading in lecture.reading %}
             <li>
-            {% if reading.optional %}<i class="fa-li fa fa-star"> </i>
+            {% if reading.grad_level %}<i class="fa-li fa fa-star"> </i>
             {% elsif reading.optional %}<i class="fa-li fa fa-info-circle"> </i>
             {% else %}<i class="fa-li fa"> </i> {% endif %}
             {{ reading.author }},
