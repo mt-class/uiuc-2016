@@ -5,8 +5,13 @@
 -
   date: 2014-01-22
   title: Universal Language in the 17th century
+  slides: slides-history/Universal_Language_in_the_17th_Century.pdf
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Schwartz
+      title: Video Lecture
+      url: https://www.youtube.com/watch?v=4j8sM132NsM
     -
       author: Okrent
       title: Pangloss Regained
