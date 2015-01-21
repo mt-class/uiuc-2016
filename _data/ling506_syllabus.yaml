@@ -10,24 +10,35 @@
   reading:
     -
       author: Koehn 
-      title: chapter 1
+      title: Chapter 1
+-
+  date: 2014-01-27
+  title: Approaches to Machine Translation
+  lecturer: Lane Schwartz 
+  reading:
     -
       author: Knight
       title:  Automating Knowledge Acquisition for Machine Translation
       url: http://www.isi.edu/natural-language/mt/aimag97.pdf
-      optional: true
     -
       author: Weaver
       title: Translation
       url: http://www.mt-archive.info/Weaver-1949.pdf
-      optional: true
     -
       author: Kay
       title: Translation
       url: http://www.stanford.edu/~mjkay/CurrentState.pdf
       optional: true
 -
-  date: 2014-01-27
+  date: 2014-01-29
+  title: Words, Sentences, Corpora 
+  lecturer: Lane Schwartz 
+  reading:
+    -
+      author: Koehn
+      title:  Chapter 2
+-
+  date: 2014-02-03
   title: Probability and Statistics 
   lecturer: Lane Schwartz 
   reading:
@@ -35,7 +46,62 @@
       author: Koehn 
       title: chapters 3
 -
-  date: 2014-01-29
+  date: 2014-02-05
+  title: Lexical Translation Models&colon; Part 1
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn 
+      title: chapter 4
+    -
+      author: Knight
+      title: A Tutorial MT Workbook
+      url: http://www.isi.edu/natural-language/mt/wkbk.rtf
+    -
+      author: Collins
+      title: Statistical Machine Translation&colon; IBM Models 1 and 2
+      url: http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf
+      optional: true
+    -
+      author: Brown et al.
+      title: A Statistical Approach to Machine Translation
+      url: http://aclweb.org/anthology-new/J/J90/J90-2002.pdf
+      optional: true
+-
+  date: 2014-02-10
+  title: Lexical Translation Models&colon; Part 2
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn 
+      title: Chapter 4
+    -
+      author: Brown et al.
+      title: The Mathematics of Statical Machine Translation&colon; Parameter Estimation
+      url: http://aclweb.org/anthology-new/J/J93/J93-2003.pdf
+      optional: true
+    -
+      author: Vogel and Ney
+      title: HMM-based word alignment in statistical translation
+      url: http://aclweb.org/anthology-new/C/C96/C96-2141.pdf
+      optional: true
+    -
+      author: Liang et al.
+      title: Alignment by Agreement
+      url: http://aclweb.org/anthology-new/N/N06/N06-1014.pdf
+      optional: true
+-
+  date: 2014-02-12
+  title: Discriminative alignment models
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Blunsom and Cohn
+      url: http://acl.ldc.upenn.edu/P/P06/P06-1009.pdf
+      title: Discriminative Word Alignment with Conditional Random Fields
+      optional: true
+-
+  date: 2014-02-17
   title: Language Models
   lecturer: Lane Schwartz
   reading:
@@ -58,62 +124,7 @@
       url: http://research.microsoft.com/pubs/69869/tr-2001-72.ps
       optional: true
 -
-  date: 2014-02-03
-  title: Lexical Translation Models&colon; Part 1
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn 
-      title: chapter 4
-    -
-      author: Knight
-      title: A Tutorial MT Workbook
-      url: http://www.isi.edu/natural-language/mt/wkbk.rtf
-    -
-      author: Collins
-      title: Statistical Machine Translation&colon; IBM Models 1 and 2
-      url: http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf
-      optional: true
-    -
-      author: Brown et al.
-      title: A Statistical Approach to Machine Translation
-      url: http://aclweb.org/anthology-new/J/J90/J90-2002.pdf
-      optional: true
--
-  date: 2014-02-05
-  title: Lexical Translation Models&colon; Part 2
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn 
-      title: chapter 4
-    -
-      author: Brown et al.
-      title: The Mathematics of Statical Machine Translation&colon; Parameter Estimation
-      url: http://aclweb.org/anthology-new/J/J93/J93-2003.pdf
-      optional: true
-    -
-      author: Vogel and Ney
-      title: HMM-based word alignment in statistical translation
-      url: http://aclweb.org/anthology-new/C/C96/C96-2141.pdf
-      optional: true
-    -
-      author: Liang et al.
-      title: Alignment by Agreement
-      url: http://aclweb.org/anthology-new/N/N06/N06-1014.pdf
-      optional: true
--
-  date: 2014-02-10
-  title: Discriminative alignment models
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Blunsom and Cohn
-      url: http://acl.ldc.upenn.edu/P/P06/P06-1009.pdf
-      title: Discriminative Word Alignment with Conditional Random Fields
-      optional: true
--
-  date: 2014-02-12
+  date: 2014-02-19
   title: Phrase-based Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -125,14 +136,6 @@
       url: http://acl.ldc.upenn.edu/N/N03/N03-1017.pdf
       title: Statistical Phrase-Based Translation
       optional: true
--
-  date: 2014-02-17
-  title: No class today (canceled due to snow)
-  lecturer: None
--
-  date: 2014-02-19
-  title: No class today (instructor is at a conference)
-  lecturer: None
 -
   date: 2014-02-24
   title: Phrase-based Machine Translation part 2
