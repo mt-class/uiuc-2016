@@ -65,7 +65,7 @@ For some or all homework assignments, the correct solution will be presented to 
     <tr>
       <th>Date</th>
       <th>Topic</th>
-      <th>Readings (starred=graduate level)</th>
+      <th>Readings (<i class="fa fa-info-circle"></i>=optional)</th>
     </tr>
     {% for lecture in site.data.ling506_syllabus %}
     <tr>
@@ -83,6 +83,7 @@ For some or all homework assignments, the correct solution will be presented to 
           {% for reading in lecture.reading %}
             <li>
             {% if reading.optional %}<i class="fa-li fa fa-star"> </i>
+            {% elsif reading.optional %}<i class="fa-li fa fa-info-circle"> </i>
             {% else %}<i class="fa-li fa"> </i> {% endif %}
             {{ reading.author }},
             {% if reading.url %}
