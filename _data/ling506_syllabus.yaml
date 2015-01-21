@@ -325,17 +325,17 @@
   slides: 
   reading:
     -
-      author: Omar Zaidan and Chris Lane Schwartz
+      author: Omar Zaidan and Chris Callison-Burch
       url: http://aclweb.org/anthology/P/P11/P11-1122.pdf
       title: Crowdsourcing Translation&colon; Professional Quality from Non-Professionals.
       optional: true
     -
-      author: Chris Lane Schwartz
+      author: Chris Callison-Burch
       url: http://aclweb.org/anthology//D/D09/D09-1030.pdf
       title: Fast, Cheap, and Creative&colon; Evaluating Translation Quality Using Amazon's Mechanical Turk 
       optional: true
     -
-      author: Ellie Pavlick, Matt Post, Ann Irvine, Dmitry Kachaev, and Chris Lane Schwartz
+      author: Ellie Pavlick, Matt Post, Ann Irvine, Dmitry Kachaev, and Chris Callison-Burch
       url: http://www.cis.upenn.edu/~ccb/publications/language-demographics-of-mechanical-turk.pdf
       title: The Language Demographics of Amazon Mechanical Turk
       optional: true
