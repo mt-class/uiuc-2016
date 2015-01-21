@@ -44,7 +44,7 @@
   reading:
     -
       author: Koehn 
-      title: chapters 3
+      title: Chapter 3
 -
   date: 2014-02-05
   title: Lexical Translation Models&colon; Part 1
@@ -52,7 +52,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 4
+      title: Chapter 4
     -
       author: Knight
       title: A Tutorial MT Workbook
@@ -107,7 +107,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 7
+      title: Chapter 7
     -
       author: Google researchers
       title:  Large Language Models in Machine Translation
@@ -130,7 +130,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 5
+      title: Chapter 5
     -
       author:   Koehn, Och and Marcu
       url: http://acl.ldc.upenn.edu/N/N03/N03-1017.pdf
@@ -143,7 +143,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 6
+      title: Chapter 6
     -
       author: Och and Ney
       url: http://aclweb.org/anthology/J/J04/J04-4002.pdf
@@ -156,7 +156,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 8
+      title: Chapter 8
     -
       author: Papineni, Roukos, Ward and Zhu
       url: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416
@@ -168,7 +168,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 8
+      title: Chapter 8
     -
       author: Callison-Burch, Fordyce, Koehn, Monz and Schroeder
       url: http://www.cis.upenn.edu/~ccb/publications/meta-evaluation-of-machine-tranlsion.pdf
@@ -181,7 +181,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 9
+      title: Chapter 9
     -
       author: Och and Ney
       url: http://acl.ldc.upenn.edu/P/P02/P02-1038.pdf
@@ -194,7 +194,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 9
+      title: Chapter 9
     -
       author: Och
       url: http://acl.ldc.upenn.edu/acl2003/main/pdfs/Och.pdf
@@ -220,7 +220,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 5.4.2 and 10.3
+      title: Chapter 5.4.2 and 10.3
     -
       author: Koehn et al
       url: http://www.cis.upenn.edu/~ccb/publications/iwslt05-report.pdf
@@ -243,7 +243,7 @@
   reading:
     -
       author: Koehn 
-      title: chapter 11
+      title: Chapter 11
     -
       author: David Chiang
       url: http://aclweb.org/anthology//J/J07/J07-2003.pdf
