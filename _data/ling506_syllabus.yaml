@@ -61,12 +61,12 @@
       author: Collins
       title: Statistical Machine Translation&colon; IBM Models 1 and 2
       url: http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf
-      optional: true
+      optional: false
     -
       author: Brown et al.
       title: A Statistical Approach to Machine Translation
       url: http://aclweb.org/anthology-new/J/J90/J90-2002.pdf
-      optional: true
+      optional: false
 -
   date: 2014-02-10
   title: Lexical Translation Models&colon; Part 2
@@ -79,17 +79,17 @@
       author: Brown et al.
       title: The Mathematics of Statical Machine Translation&colon; Parameter Estimation
       url: http://aclweb.org/anthology-new/J/J93/J93-2003.pdf
-      optional: true
+      optional: false
     -
       author: Vogel and Ney
       title: HMM-based word alignment in statistical translation
       url: http://aclweb.org/anthology-new/C/C96/C96-2141.pdf
-      optional: true
+      optional: false
     -
       author: Liang et al.
       title: Alignment by Agreement
       url: http://aclweb.org/anthology-new/N/N06/N06-1014.pdf
-      optional: true
+      optional: false
 -
   date: 2014-02-12
   title: Discriminative alignment models
@@ -99,7 +99,7 @@
       author: Blunsom and Cohn
       url: http://acl.ldc.upenn.edu/P/P06/P06-1009.pdf
       title: Discriminative Word Alignment with Conditional Random Fields
-      optional: true
+      optional: false
 -
   date: 2014-02-17
   title: Language Models
@@ -112,17 +112,17 @@
       author: Google researchers
       title:  Large Language Models in Machine Translation
       url: http://acl.ldc.upenn.edu/D/D07/D07-1090.pdf
-      optional: true
+      optional: false
     -
       author: Pauls and Klein
       title: Large-Scale Syntactic Language Modeling with Treelets
       url: http://www.cs.berkeley.edu/~adpauls/PAPERS/acl2012.pdf
-      optional: true
+      optional: false
     -
       author: Goodman
       title: A Bit of Progress in Language Modeling
       url: http://research.microsoft.com/pubs/69869/tr-2001-72.ps
-      optional: true
+      optional: false
 -
   date: 2014-02-19
   title: Phrase-based Machine Translation
@@ -135,7 +135,7 @@
       author:   Koehn, Och and Marcu
       url: http://acl.ldc.upenn.edu/N/N03/N03-1017.pdf
       title: Statistical Phrase-Based Translation
-      optional: true
+      optional: false
 -
   date: 2014-02-24
   title: Phrase-based Machine Translation part 2
@@ -148,7 +148,7 @@
       author: Och and Ney
       url: http://aclweb.org/anthology/J/J04/J04-4002.pdf
       title: The Alignment Template Approach to Statistical Machine Translation
-      optional: true
+      optional: false
 -
   date: 2014-02-26
   title: Evaluating translation quality
@@ -173,7 +173,7 @@
       author: Callison-Burch, Fordyce, Koehn, Monz and Schroeder
       url: http://www.cis.upenn.edu/~ccb/publications/meta-evaluation-of-machine-tranlsion.pdf
       title: (Meta-) Evaluation of Machine Translation
-      optional: true
+      optional: false
 -
   date: 2014-03-05
   title: Discriminative training
@@ -186,7 +186,7 @@
       author: Och and Ney
       url: http://acl.ldc.upenn.edu/P/P02/P02-1038.pdf
       title: Discriminative Training And Maximum Entropy Models For Statistical Machine Translation
-      optional: true
+      optional: false
 -
   date: 2014-03-10
   title: Discriminative training - part 2
@@ -199,12 +199,12 @@
       author: Och
       url: http://acl.ldc.upenn.edu/acl2003/main/pdfs/Och.pdf
       title: Minimum Error Rate Training In Statistical Machine Translation
-      optional: true
+      optional: false
     -
       author: Hopkins and May
       url: http://www.aclweb.org/anthology/D/D11/D11-1125.pdf
       title: Tuning as Ranking
-      optional: true
+      optional: false
 -
   date: 2014-03-12
   title: TBD
@@ -225,12 +225,12 @@
       author: Koehn et al
       url: http://www.cis.upenn.edu/~ccb/publications/iwslt05-report.pdf
       title: Description of lexialized reordering in Edinburgh System Description for the 2005 IWSLT Speech Translation Evaluation
-      optional: true
+      optional: false
     -
       author: Collins, Koehn, Kucerova
       url: http://people.csail.mit.edu/mcollins/papers/clause.pdf
       title: Clause Restructuring for Statistical Machine Translation
-      optional: true
+      optional: false
     -
       author: Mark Twain
       url: http://www.crossmyt.com/hc/linghebr/awfgrmlg.html
@@ -248,12 +248,12 @@
       author: David Chiang
       url: http://aclweb.org/anthology//J/J07/J07-2003.pdf
       title: Hierarchical Phrase-Based Translation
-      optional: true
+      optional: false
     -
       author: Heidi Fox
       url: http://acl.ldc.upenn.edu/W/W02/W02-1039.pdf
       title: Phrasal Cohesion and Statistical Machine Translation
-      optional: true
+      optional: false
 -
   date: 2014-04-02
   title: Decoding and Inference with Syntactic Translation Models
@@ -263,17 +263,17 @@
       author: Dekai Wu
       url: http://aclweb.org/anthology//J/J97/J97-3002.pdf
       title: Stochastic Inversion Transduction Grammars and Bilingual Parsing of Parallel Corpora
-      optional: true
+      optional: false
     -
       author: Stu Shieber, Yves Schabes, and Ferndando Pereira
       url: http://www.isi.edu/natural-language/teaching/cs562/2009/readings/deductive.pdf
       title: Principles and Implementation of Deductive Parsing
-      optional: true
+      optional: false
     -
       author: Dan Klein and Chris Manning
       url: http://www.cs.berkeley.edu/~klein/papers/klein_and_manning-parsing_and_hypergraphs-IWPT_2001.pdf
       title: Parsing and Hypergraphs
-      optional: true
+      optional: false
 -
   date: 2014-04-07
   title: Synchronous Parsing
@@ -287,17 +287,17 @@
       author: Philip Resnik and Noah Smith
       url: http://acl.ldc.upenn.edu/J/J03/J03-3002.pdf
       title: The Web as a Parallel Corpus
-      optional: true
+      optional: false
     -
       author: Jakob Uszkoreit, Jay Ponte, Ashok Popat, and Moshe Dubiner
       url: http://acl.ldc.upenn.edu/J/J03/J03-3002.pdf
       title: Large Scale Parallel Document Mining for Machine Translation
-      optional: true
+      optional: false
     -
       author: Ashish Venugopal, Jakob Uszkoreit, David Talbot, Franz Och, Juri Ganitkevitch
       url: http://aclweb.org/anthology//D/D11/D11-1126.pdf
       title: Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation
-      optional: true
+      optional: false
 -
   date: 2014-04-14
   title: TBD
@@ -328,17 +328,17 @@
       author: Omar Zaidan and Chris Callison-Burch
       url: http://aclweb.org/anthology/P/P11/P11-1122.pdf
       title: Crowdsourcing Translation&colon; Professional Quality from Non-Professionals.
-      optional: true
+      optional: false
     -
       author: Chris Callison-Burch
       url: http://aclweb.org/anthology//D/D09/D09-1030.pdf
       title: Fast, Cheap, and Creative&colon; Evaluating Translation Quality Using Amazon's Mechanical Turk 
-      optional: true
+      optional: false
     -
       author: Ellie Pavlick, Matt Post, Ann Irvine, Dmitry Kachaev, and Chris Callison-Burch
       url: http://www.cis.upenn.edu/~ccb/publications/language-demographics-of-mechanical-turk.pdf
       title: The Language Demographics of Amazon Mechanical Turk
-      optional: true
+      optional: false
 -
   date: 2014-04-30
   title: TBD
