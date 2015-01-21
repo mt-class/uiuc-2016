@@ -170,7 +170,7 @@
       author: Koehn 
       title: chapter 8
     -
-      author: Lane Schwartz, Fordyce, Koehn, Monz and Schroeder
+      author: Callison-Burch, Fordyce, Koehn, Monz and Schroeder
       url: http://www.cis.upenn.edu/~ccb/publications/meta-evaluation-of-machine-tranlsion.pdf
       title: (Meta-) Evaluation of Machine Translation
       optional: true
