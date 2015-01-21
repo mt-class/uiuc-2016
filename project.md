@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ling506_frame
 img: dore_babel
 img_link: http://en.wikipedia.org/wiki/Confusion_of_tongues
 caption: Gustav Dore, The Confusion of Tongues

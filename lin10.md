@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ling506_frame
 img: fuck_the_ginger_water
 img_link: http://itre.cis.upenn.edu/~myl/languagelog/archives/005195.html
 caption: A flagrant mistranslation

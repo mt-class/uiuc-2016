@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: ling506_frame
 img: race
 img_link: http://www.flickr.com/photos/nationaalarchief/3198249977/
 title: Leaderboard
