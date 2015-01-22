@@ -56,6 +56,15 @@
       title:  Utopian for Beginners
       url: http://www.newyorker.com/magazine/2012/12/24/utopian-for-beginners
     -
+      author: Bigham
+      title: "Video Lecture: Constructed & Invented Languages"
+      url: https://www.youtube.com/watch?v=fmsXMutR4vU
+    -
+      author: Dalarna University
+      title: "Video Lecture: The Universal Language (part 3)"
+      url: https://www.youtube.com/watch?v=7NVOrNfnaU8
+      optional: true
+    -
       author: Heinlein
       title:  Gulf
       url: http://www.baenebooks.com/chapters/9781451637854B/9781451637854B___2.htm
