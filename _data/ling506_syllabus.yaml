@@ -43,6 +43,10 @@
   lecturer: Lane Schwartz 
   reading:
     -
+      author: Koehn
+      title: Errata for Chapter 3
+      url: http://statmt.org/book/errata.html
+    -
       author: Koehn 
       title: Chapter 3
 -
@@ -50,6 +54,10 @@
   title: Lexical Translation Models&colon; Part 1
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: Errata for Chapter 4
+      url: http://statmt.org/book/errata.html
     -
       author: Koehn 
       title: Chapter 4
@@ -72,9 +80,6 @@
   title: Lexical Translation Models&colon; Part 2
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Koehn 
-      title: Chapter 4
     -
       author: Brown et al.
       title: The Mathematics of Statical Machine Translation&colon; Parameter Estimation
@@ -106,6 +111,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Koehn
+      title: Errata for Chapter 7
+      url: http://statmt.org/book/errata.html
+    -
       author: Koehn 
       title: Chapter 7
     -
@@ -129,6 +138,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Koehn
+      title: Errata for Chapter 5
+      url: http://statmt.org/book/errata.html
+    -
       author: Koehn 
       title: Chapter 5
     -
@@ -141,6 +154,10 @@
   title: Phrase-based Machine Translation part 2
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: Errata for Chapter 6
+      url: http://statmt.org/book/errata.html
     -
       author: Koehn 
       title: Chapter 6
@@ -155,6 +172,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Koehn
+      title: Errata for Chapter 8
+      url: http://statmt.org/book/errata.html
+    -
       author: Koehn 
       title: Chapter 8
     -
@@ -167,9 +188,6 @@
   lecturer: Lane Schwartz
   reading:
     -
-      author: Koehn 
-      title: Chapter 8
-    -
       author: Callison-Burch, Fordyce, Koehn, Monz and Schroeder
       url: http://www.cis.upenn.edu/~ccb/publications/meta-evaluation-of-machine-tranlsion.pdf
       title: (Meta-) Evaluation of Machine Translation
@@ -179,6 +197,10 @@
   title: Discriminative training
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: Errata for Chapter 9
+      url: http://statmt.org/book/errata.html
     -
       author: Koehn 
       title: Chapter 9
@@ -192,9 +214,6 @@
   title: Discriminative training - part 2
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Koehn 
-      title: Chapter 9
     -
       author: Och
       url: http://acl.ldc.upenn.edu/acl2003/main/pdfs/Och.pdf
@@ -219,6 +238,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Koehn
+      title: Errata for Chapters 5 and 10
+      url: http://statmt.org/book/errata.html
+    -
       author: Koehn 
       title: Chapter 5.4.2 and 10.3
     -
@@ -241,6 +264,10 @@
   title: Synchronous Grammars
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: Errata for Chapter 11
+      url: http://statmt.org/book/errata.html
     -
       author: Koehn 
       title: Chapter 11
