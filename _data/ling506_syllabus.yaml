@@ -9,6 +9,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Koehn
+      title: Errata for Chapter 1
+      url: http://statmt.org/book/errata.html  
+    -
       author: Koehn 
       title: Chapter 1
 -
