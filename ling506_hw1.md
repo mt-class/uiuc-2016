@@ -8,7 +8,7 @@ active_tab: homework
 ---
 
 <div class="alert alert-info">
-  Implementation due Tuesday, 10 February 2015, 11:59pm.
+  Due Saturday, 21 February 2015, 11:59pm.
 </div>
 
 Alignment <span class="text-muted">Challenge Problem 1</span>
@@ -192,7 +192,7 @@ Ground Rules
   so we'll ask you to share the parses. This kind of 
   constrained data condition is common in real-world evaluations of AI 
   systems, to make evaluations fair. A few things are off-limits:
-  Giza++, the Berkeley Aligner, or anything else that
+  Giza++, the Berkeley Aligner, FastAlign or anything else that
   already does the alignment for you. You must write your
   own code. If you want to do system combination, join
   forces with your classmates.
