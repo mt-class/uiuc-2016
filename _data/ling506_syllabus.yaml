@@ -36,6 +36,10 @@
   reading:
     -
       author: Koehn
+      title: Errata for Chapter 2
+      url: http://statmt.org/book/errata.html
+    -
+      author: Koehn
       title:  Chapter 2
 -
   date: 2014-02-03
