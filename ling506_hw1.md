@@ -59,12 +59,12 @@ does not capture every nuance, but it is still very useful.
 Getting Started
 ---------------
 
-You must have git and python (2.7) on your system to run the assignments.
-Once you've confirmed this, run this command:
+ssh in to `ling506.atlas.uiuc.edu`
+Once you've logged in, run this command:
 
-    git clone https://github.com/callison-burch/dreamt.git
+    git clone https://github.com/2015-Spring-UIUC-LING506/YOUR_GITHUB_USERNAME_GOES_HERE-hw1.git
 
-In the `aligner` directory you will find a python program called
+You will find a python program called
 `align`, which contains a complete but very simple alignment algorithm.
 For every word, it computes the set of sentences that the word appears in. 
 Intuititvely, word pairs that appear in similar sets of sentences are likely
@@ -82,7 +82,7 @@ coefficient over 0.5. Run it on 1000 sentences:
 
 This command stores the output in `dice.a`. To compute accuracy, run:
 
-    python score-alignments < dice.a
+    python tools/score-alignments < dice.a
 
 This compares the alignments against human-produced alignments, computing 
 [alignment error rate](http://aclweb.org/anthology-new/P/P00/P00-1056.pdf), 
@@ -90,7 +90,7 @@ which balances precision and recall. It will also show you the comparison
 in a grid. Look at the terrible output of this heuristic method -- it's 
 better than chance, but not any good. Try training on 10,000 sentences:
 
-    python align -n 10000 | python score-alignments 
+    python align -n 10000 | python tools/score-alignments
 
 Performance should improve, but only slightly! Try changing the
 threshold for alignment. How does this affect alignment error rate?
@@ -155,31 +155,14 @@ as you follow the ground rules:
 Ground Rules
 ------------
 
-* You can work in independently or in groups of up to three, under these 
-  conditions: 
-  1. You must announce the group publicly on piazza.
-  1. You agree that everyone in the group will receive the same grade on the assignment. 
-  1. You can add people or merge groups at any time before the assignment is
-     due. You cannot drop people from your group once you've added them.
+* For this assignment you _must_ work independently. You _may not_ work in groups.
 * You must turn in three things:
-  1. An alignment of the entire dataset, uploaded to the [leaderboard submission site](http://jhumtclass.appspot.com) according to <a href="assignment0.html">the Assignment 0 instructions</a>. You can upload new output as often
-     as you like, up until the assignment deadline. The output will be evaluated 
-     using a secret metric, but the `grade` program will give you a good
-     idea of how well you're doing, and you can use the `check` program
-     to see whether your output is formatted correctly. Whoever has
-     the highest score at the deadline will receive the most bonus points.
+  1. All of your work, including your code and LaTeX writeup, must be checked in
+     and pushed to your HW1 github repository.
+  1. You must submit your assignment, using the following command:
 
-     *Note*. The upload site will reject files larger than 1 MB, so please reduce your file to only the first 1,000 lines before uploading, e.g.,
+    /home/lanes/Homeworks/hw1/submit.sh
 
-          python align | head -n1000 > output.txt
-
-  1. Your code. Send us a URL from which we can get the code and git revision
-     history (a link to a tarball will suffice, but you're free to send us a 
-     github link if you don't mind making your code public). This is due at the
-     deadline: when you upload your final answer, send us the code.
-     You are free to extend the code we provide or roll your own in whatever
-     langugage you like, but the code should be self-contained, 
-     self-documenting, and easy to use. 
   1. A clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
      clear enough that one of your fellow students could re-implement it 
