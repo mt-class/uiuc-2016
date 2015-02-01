@@ -63,6 +63,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Schwartz
+      title: Video Lecture (The Noisy Channel Model)
+      url: https://www.youtube.com/watch?v=zjWXLD_ihOc
+    -
       author: Koehn
       title: Errata for Chapter 4
       url: http://statmt.org/book/errata.html

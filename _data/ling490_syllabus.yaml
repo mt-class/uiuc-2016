@@ -119,6 +119,10 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Schwartz
+      title: Video Lecture (The Noisy Channel Model)
+      url: https://www.youtube.com/watch?v=zjWXLD_ihOc
+    -
       author: Weaver
       title: The Mathematics of Communications
       url: http://www.mt-archive.info/50/SciAm-1949-Weaver.pdf
