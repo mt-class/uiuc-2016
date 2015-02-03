@@ -37,3 +37,14 @@ Textbook
 : [Statistical Machine Translation](http://www.statmt.org/book/) (<a href="http://statmt.org/book/errata.html">errata</a>) 
 by <a href="http://homepages.inf.ed.ac.uk/pkoehn/">Philipp Koehn</a> 
 You can purchase <a href="http://www.amazon.com/Statistical-Machine-Translation-Philipp-Koehn/dp/0521874157">the Statistical Machine Translation textbook from Amazon</a>, or <a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/9781139637565">access it online</a> through the UIUC library.
+
+
+Supplemental texts:
+<ul>
+ <li><a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/linux/9781593273897">The Linux Command Line: A Complete Introduction</a> by William E. Shotts, Jr.</li>
+ <li><a href="http://rogerdudler.github.io/git-guide">git - the simple guide</a> by Roger Dudler</li>
+ <li><a href="http://git-scm.com/book">Pro Git</a></li>
+ <li><a href="http://www.git-tower.com/learn/ebook/command-line/introduction">Learn Version Control with Git: A step-by-step course for the complete beginner</a> by fournova Software GmbH</li>
+ <li><a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781449355722">Learning Python, 5th edition</a> by Mark Lutz</li>
+ <li><a href="http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781457172397">Python for Kids: A Playful Introduction to Programming</a> by Jason Briggs</li>
+</ul>
