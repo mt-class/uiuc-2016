@@ -177,8 +177,7 @@ Ground Rules
   systems, to make evaluations fair. A few things are off-limits:
   Giza++, the Berkeley Aligner, FastAlign or anything else that
   already does the alignment for you. You must write your
-  own code. If you want to do system combination, join
-  forces with your classmates.
+  own code.
 
 If you have any questions or you're confused about anything, just ask.
 
