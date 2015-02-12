@@ -117,6 +117,11 @@
       url: http://acl.ldc.upenn.edu/P/P06/P06-1009.pdf
       title: Discriminative Word Alignment with Conditional Random Fields
       optional: false
+    -
+      author: Sutton and McCallum
+      url: http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf
+      title: An Introduction to Conditional Random Fields
+      optional: true
 -
   date: 2014-02-17
   title: Language Models
