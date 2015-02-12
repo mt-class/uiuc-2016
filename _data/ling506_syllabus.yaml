@@ -114,7 +114,7 @@
   reading:
     -
       author: Blunsom and Cohn
-      url: http://acl.ldc.upenn.edu/P/P06/P06-1009.pdf
+      url: http://aclweb.org/anthology-new/P/P06/P06-1009.pdf
       title: Discriminative Word Alignment with Conditional Random Fields
       optional: false
 -
