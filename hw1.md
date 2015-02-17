@@ -67,7 +67,7 @@ Once you've confirmed this, run this command:
 In the `aligner` directory you will find a python program called
 `align`, which contains a complete but very simple alignment algorithm.
 For every word, it computes the set of sentences that the word appears in. 
-Intuititvely, word pairs that appear in similar sets of sentences are likely
+Intuitively, word pairs that appear in similar sets of sentences are likely
 to be translations. Our aligner first computes the similarity of these sets  with
 [Dice's coefficient](http://en.wikipedia.org/wiki/Dice's_coefficient/). Given
 sets $$X$$ and $$Y$$, Dice's coefficient is:
@@ -113,7 +113,7 @@ $$P({\bf f}, {\bf a} | {\bf e}) = \prod_i P(a_i = j | |{\bf e}|) \times P(f_i | 
 Model 1, we fix $$P(a_i = j | |{\bf e}|)$$ to be uniform 
 (i.e. equal to $$\frac{1}{|{\bf e}|}$$), so this probability
 depends only on the word translation parameters $$P(f | e)$$. But where do
-thes parameters come from? You will first learn them from the data using
+these parameters come from? You will first learn them from the data using
 expectation maximization (EM), and then use them to align. EM attempts to
 maximize the *observed* data likelihood $$P({\bf e}|{\bf f})$$, which does not contain
 alignments. To do this, we marginalize over the alignment variable:
@@ -157,7 +157,7 @@ Ground Rules
 
 * You can work in independently or in groups of up to three, under these 
   conditions: 
-  1. You must announce the group publicly on piazza.
+  1. You must announce the group publicly on Piazza.
   1. You agree that everyone in the group will receive the same grade on the assignment. 
   1. You can add people or merge groups at any time before the assignment is
      due. You cannot drop people from your group once you've added them.
@@ -175,10 +175,10 @@ Ground Rules
 
   1. Your code. Send us a URL from which we can get the code and git revision
      history (a link to a tarball will suffice, but you're free to send us a 
-     github link if you don't mind making your code public). This is due at the
+     Github link if you don't mind making your code public). This is due at the
      deadline: when you upload your final answer, send us the code.
      You are free to extend the code we provide or roll your own in whatever
-     langugage you like, but the code should be self-contained, 
+     language you like, but the code should be self-contained, 
      self-documenting, and easy to use. 
   1. A clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
