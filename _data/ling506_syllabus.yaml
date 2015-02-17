@@ -138,12 +138,12 @@
       author: Pauls and Klein
       title: Large-Scale Syntactic Language Modeling with Treelets
       url: http://www.cs.berkeley.edu/~adpauls/PAPERS/acl2012.pdf
-      optional: false
+      optional: true
     -
       author: Goodman
       title: A Bit of Progress in Language Modeling
       url: http://research.microsoft.com/pubs/69869/tr-2001-72.ps
-      optional: false
+      optional: true
 -
   date: 2014-02-19
   title: Phrase-based Machine Translation
