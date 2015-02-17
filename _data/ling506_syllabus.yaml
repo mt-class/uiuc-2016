@@ -149,6 +149,10 @@
       title: A Bit of Progress in Language Modeling
       url: http://research.microsoft.com/pubs/69869/tr-2001-72.ps
       optional: true
+    -
+      author: Jurafsky
+      title: Coursera Lecture
+      url: https://class.coursera.org/nlp/lecture/32
 -
   date: 2014-02-19
   title: Phrase-based Machine Translation
