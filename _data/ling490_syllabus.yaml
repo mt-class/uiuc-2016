@@ -228,6 +228,11 @@
       title: Chinese room argument
       url: http://www.scholarpedia.org/article/Chinese_room_argument
       optional: true
+    -
+      author: Morber
+      title: If software looks like a brain and acts like a brain—will we treat it like one?
+      url: http://arstechnica.com/science/2015/02/if-software-looks-like-a-brain-and-acts-like-a-brain-will-we-treat-it-like-one/
+      optional: true
 -
   date: 2014-02-24
   title: 1954-1966 The Decade of Optimism
