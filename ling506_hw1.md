@@ -185,5 +185,3 @@ If you have any questions or you're confused about anything, just ask.
 [Philipp Koehn](http://homepages.inf.ed.ac.uk/pkoehn/)
 and later modified by [John DeNero](http://www.denero.org/). It
 incorporates some ideas from [Chris Dyer](http://www.cs.cmu.edu/~cdyer).*
-
-*This web site and course content are derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.*
