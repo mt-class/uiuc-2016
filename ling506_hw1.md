@@ -67,7 +67,7 @@ Once you've logged in, run this command:
 You will find a python program called
 `align`, which contains a complete but very simple alignment algorithm.
 For every word, it computes the set of sentences that the word appears in. 
-Intuitively, word pairs that appear in similar sets of sentences are likely
+Intuititvely, word pairs that appear in similar sets of sentences are likely
 to be translations. Our aligner first computes the similarity of these sets  with
 [Dice's coefficient](http://en.wikipedia.org/wiki/Dice's_coefficient/). Given
 sets $$X$$ and $$Y$$, Dice's coefficient is:
@@ -113,7 +113,7 @@ $$P({\bf f}, {\bf a} | {\bf e}) = \prod_i P(a_i = j | |{\bf e}|) \times P(f_i | 
 Model 1, we fix $$P(a_i = j | |{\bf e}|)$$ to be uniform 
 (i.e. equal to $$\frac{1}{|{\bf e}|}$$), so this probability
 depends only on the word translation parameters $$P(f | e)$$. But where do
-these parameters come from? You will first learn them from the data using
+thes parameters come from? You will first learn them from the data using
 expectation maximization (EM), and then use them to align. EM attempts to
 maximize the *observed* data likelihood $$P({\bf e}|{\bf f})$$, which does not contain
 alignments. To do this, we marginalize over the alignment variable:
@@ -158,7 +158,7 @@ Ground Rules
 * For this assignment you _must_ work independently. You _may not_ work in groups.
 * You must turn in three things:
   1. All of your work, including your code and LaTeX writeup, must be checked in
-     and pushed to your HW1 Github repository.
+     and pushed to your HW1 github repository.
   1. You must submit your assignment, using the following command:
 
     /home/lanes/Homeworks/hw1/submit.sh
@@ -185,3 +185,5 @@ If you have any questions or you're confused about anything, just ask.
 [Philipp Koehn](http://homepages.inf.ed.ac.uk/pkoehn/)
 and later modified by [John DeNero](http://www.denero.org/). It
 incorporates some ideas from [Chris Dyer](http://www.cs.cmu.edu/~cdyer).*
+
+*This web site and course content are derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.*

@@ -50,3 +50,6 @@ words translate? Do you think that the prefix "ok-" corresponds to something?
 6. Follow the instructions in the HW0 README
 
 7. As you work, check in your changes using `git add`, `git commit`, and `git push`
+
+
+*This web site and course content are derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.*
