@@ -108,6 +108,3 @@ For some or all homework assignments, the correct solution will be presented to 
   </tbody>
 </table>
 
-<p>
-This web site and course content are derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License.
-</p>
