@@ -103,5 +103,3 @@ For some or all homework assignments, the correct solution will be presented to 
 </table>
 
 Many of the lectures from this course were adapted (or stolen wholesale) from [Chris Dyer](http://www.cs.cmu.edu/~cdyer/), [Adam Lopez](http://www.cs.jhu.edu/~alopez/), [Matt Post](http://cs.jhu.edu/~post/), and [Chris Callison-Burch](http://www.cis.upenn.edu/~ccb).  I am grateful to them for making their lecture materials available. 
-
-        This web site and course content are derived from material originally created by Adam Lopez, Matt Post, and Chris Callison-Burch, which they have graciously made available under a Creative Commons Attribution 3.0 Unported License. All additions by Lane Schwartz may likewise be reproduced under the Creative Commons Attribution 3.0 Unported License.
