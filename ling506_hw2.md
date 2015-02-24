@@ -156,60 +156,28 @@ problem, and you can try anything you want as long as you follow the ground rule
 
 ## Ground Rules
 
-<ul>
-<li>
-   You may work in independently or in groups of any size, under these 
-   conditions: 
-   <ol>
-   <li>
-   You must notify us by posting a public note to piazza.
-   </li>
-   <li>
-   Everyone in the group will receive the same grade on the assignment. 
-   </li>
-   <li>
-   You can add people or merge groups at any time before you post your
-   final submission. HOWEVER, you cannot drop people from your group once 
-   you've added them. Collaboration is fine with us.
-   </li>
-  </ol>
-</li>
-<li> You must turn in three things:
-  <ol>
-  <li>
-  Your translations of the entire dataset, uploaded to BASE_URL/assignment2.txt
-  following the <a href="assignment0.html">Assignment 0 instructions</a>. 
-  You can upload new output as often as you like. There is no hidden metric
-  for this assignment; the <tt>grade</tt> program will tell you exactly
-  how probable your output it. Whoever has
-  the most probable output at the deadline will receive the most bonus points.
-  </li>
-  <li>
-  Your code. Send us a URL from which we can get the code and git revision
-  history (a link to a tarball will suffice, but you're free to send us a 
-  github link if you don't mind making your code public). This is due at the
-  deadline: when you upload your final answer, send us the code.
-  You are free to extend the code we provide or roll your own in whatever
-  langugage you like, but the code should be self-contained, 
-  self-documenting, and easy to use. 
-  </li>
-  <li>
-  A description of your algorithm, posted to piazza. 
-  Brevity is encouraged, as long as it is clear what you did; a paragraph or 
-  even bullet points is fine. You should tell us not only about your final 
-  algorithm, but also things that you tried that didn't work, experiments that
-  you did, or other interesting things that you observed while working on it.
-  What did you learn? What did you think about the quality of the translations?
-  Do you think that more probable translations are better? Please post your 
-  response within two days of submitting your final solution to the 
-  leaderboard; we will withold your grade until we receive it.
-  </li>
-  </ol>
-</li>
-<li>
-   You do not need any other data than what is provided. You should feel 
-   free to use additional codebases and libraries <b>except for those
-   expressly intended to decode machine translation models</b>. 
+Ground Rules
+------------
+
+* For this assignment you may work independently, or in groups.
+  1. Groups must be publicly announced in class
+  1. Every member of the group must email the instructor (subject: LING 506 HW2 group) listing all group members in the email
+  1. Everyone in the group will receive the same grade on the assignment
+  1. Claims regarding who did or did not do what work will be completely ignored
+  
+* You must turn in three things:
+  1. All of your work, including your code and LaTeX writeup, must be checked in
+     and pushed to your HW2 github repository.
+  1. You must submit your assignment, using the following command:
+
+    /home/lanes/Homeworks/hw2/submit.sh
+
+  1. A clear, mathematical description of your algorithm and its motivation
+     written in scientific style. This needn't be long, but it should be
+     clear enough that one of your fellow students could re-implement it 
+     exactly. We will review examples in class before the due date.
+* You do not need any other data than what is provided. You should feel 
+   free to use additional codebases and libraries _except for those expressly intended to decode machine translation models_. 
    You must write your
    own decoder. If you would like to base your solution on finite-state
    toolkits or generic solvers for traveling salesman problems or
@@ -223,8 +191,5 @@ problem, and you can try anything you want as long as you follow the ground rule
    of python code.
    If you aren't sure whether 
    something is permitted, ask us.
-</li>
-</ul>
-If you have any questions or you're confused about anything,
-<a href="https://piazza.com/upenn/spring2014/cis526/home">just ask</a>.
 
+If you have any questions or you're confused about anything, just ask.
