@@ -229,9 +229,6 @@ problem, and you can try anything you want as long as you follow the ground rule
 
 ## Ground Rules
 
-Ground Rules
-------------
-
 * For this assignment you may work independently, or in groups.
   1. Groups must be publicly announced in class
   1. Every member of the group must email the instructor (subject: LING 506 HW2 group) listing all group members in the email
