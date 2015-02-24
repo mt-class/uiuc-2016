@@ -65,10 +65,8 @@ Improving the search algorithm in the decoder &mdash; for instance by enabling
 it to search over permutations of English phrases &mdash; should permit you 
 to find more probable translations
 of the input French sentences than the ones found by the baseline system. 
-This assignment differs from Homework 1, in that there
-is no hidden evaluation measure.
-The <tt>grade</tt> program will tell you the probability of your output, and
-whoever finds the most probable output will receive the most points.
+
+The <tt>grade</tt> program will tell you the probability of your output.
 
 ## The Challenge
 
