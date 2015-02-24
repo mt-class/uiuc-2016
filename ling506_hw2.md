@@ -8,7 +8,7 @@ active_tab: homework
 ---
 
 <div class="alert alert-info">
-This homework is due Tuesday 24 February 2015, 11:59pm.
+This homework is due Saturday 7 March 2015, 11:59pm.
 </div>
 
 Decoding:  <span class="text-muted">Challenge Problem 2</span>
