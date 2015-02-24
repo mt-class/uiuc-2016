@@ -189,6 +189,11 @@
       optional: false
 -
   date: 2014-02-26
+  title: Hands-on
+  lecturer: Lane Schwartz
+  reading: 
+-
+  date: 2014-03-03
   title: Evaluating translation quality
   lecturer: Lane Schwartz
   reading:
@@ -204,7 +209,7 @@
       url: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416
       title: BLEU&colon; a Method for Automatic Evaluation of Machine Translation
 -
-  date: 2014-03-03
+  date: 2014-03-05
   title: Evaluating translation quality - part 2
   lecturer: Lane Schwartz
   reading:
@@ -214,7 +219,7 @@
       title: (Meta-) Evaluation of Machine Translation
       optional: false
 -
-  date: 2014-03-05
+  date: 2014-03-10
   title: Discriminative training
   lecturer: Lane Schwartz
   reading:
@@ -231,7 +236,7 @@
       title: Discriminative Training And Maximum Entropy Models For Statistical Machine Translation
       optional: false
 -
-  date: 2014-03-10
+  date: 2014-03-12
   title: Discriminative training - part 2
   lecturer: Lane Schwartz
   reading:
@@ -245,10 +250,6 @@
       url: http://www.aclweb.org/anthology/D/D11/D11-1125.pdf
       title: Tuning as Ranking
       optional: false
--
-  date: 2014-03-12
-  title: TBD
-  lecturer: Lane Schwartz
 -
   date: 2014-03-17
   title: TBD
