@@ -235,7 +235,8 @@ problem, and you can try anything you want as long as you follow the ground rule
   1. Everyone in the group will receive the same grade on the assignment
   1. Claims regarding who did or did not do what work will be completely ignored
   
-* You must turn in three things:
+* You must turn in your code and writeup:
+  1. All of your work must be regularly checked in to github. In order to receive full credit, you must have regular checkins to your repository, and each checkin must have a reasonable commit message.
   1. All of your work, including your code and LaTeX writeup, must be checked in
      and pushed to your HW2 github repository.
   1. Your writeup must be a clear, mathematical description of your algorithm and its motivation
