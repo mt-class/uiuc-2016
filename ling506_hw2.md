@@ -238,11 +238,7 @@ problem, and you can try anything you want as long as you follow the ground rule
 * You must turn in three things:
   1. All of your work, including your code and LaTeX writeup, must be checked in
      and pushed to your HW2 github repository.
-  1. You must submit your assignment, using the following command:
-
-    /home/lanes/Homeworks/hw2/submit.sh
-
-  1. A clear, mathematical description of your algorithm and its motivation
+  1. Your writeup must be a clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
      clear enough that one of your fellow students could re-implement it 
      exactly. We will review examples in class before the due date.
