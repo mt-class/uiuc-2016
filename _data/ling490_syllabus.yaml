@@ -295,6 +295,7 @@
       author: Dorr, et al
       title: "A Survey of Current Paradigms in Machine Translation"
       url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
+      optional: true
 -
   date: 2014-03-10
   title: MT in the E.U.
