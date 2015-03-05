@@ -298,8 +298,19 @@
       optional: true
 -
   date: 2014-03-10
-  title: MT in the E.U.
+  title: Interlingual Machine Translation
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Delavenay
+      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
+      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
+      pages: 46-54
+    -
+      author: Melby
+      title: The Possibility of Language
+      url: https://books.google.com/books?id=MdBAAAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+      pages: 45-49
 -
   date: 2014-03-12
   title: TBD
@@ -339,19 +350,8 @@
       url: http://mt-archive.info/MTS-1997-Pedtke.pdf
 -
   date: 2014-03-31
-  title: Interlingual Machine Translation
+  title: MT in the E.U.
   lecturer: Lane Schwartz
-  reading:
-    -
-      author: Delavenay
-      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
-      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
-      pages: 46-54
-    -
-      author: Melby
-      title: The Possibility of Language
-      url: https://books.google.com/books?id=MdBAAAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
-      pages: 45-49
 -
   date: 2014-04-02
   title: Assimilation, Dissemination, and Communication
