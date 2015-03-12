@@ -313,7 +313,7 @@
       pages: 43-49
 -
   date: 2014-03-12
-  title: TBD
+  title: Exam review
   lecturer: Lane Schwartz
   reading:
     -
@@ -322,7 +322,12 @@
       url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
 -
   date: 2014-03-17
-  title: "MT at NSA: Gister and CyberTrans"
+  title: Exam
+  lecturer: Lane Schwartz
+
+-
+  date: 2014-03-19
+  title: "MT in the U.S. Government"
   lecturer: Lane Schwartz
   reading:
     -
@@ -339,11 +344,6 @@
       author: Reeder
       title: "At Your Service: Embedded MT As a Service"
       url: http://www.aclweb.org/anthology/W00-0503
--
-  date: 2014-03-19
-  title: "MT in the U.S. Government"
-  lecturer: Lane Schwartz
-  reading:
     -
       author: Pedtke
       title: "U.S. Government Support and Use of Machine Translation: Current Status"
