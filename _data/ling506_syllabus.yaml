@@ -251,10 +251,14 @@
       optional: false
 -
   date: 2014-03-17
-  title: TBD
+  title: Hands-on with Moses EMS
   lecturer: Lane Schwartz
 -
-  date: 2014-03-19
+  date: 2014-03-17
+  title: Hands-on with Moses EMS
+  lecturer: Lane Schwartz
+-
+  date: 2014-03-31
   title: Re-ordering for phrase-based translation 
   lecturer: Lane Schwartz
   reading:
@@ -281,7 +285,7 @@
       title: The Awful German Language
       optiona: true
 -
-  date: 2014-03-31
+  date: 2014-04-02
   title: Synchronous Grammars
   lecturer: Lane Schwartz
   reading:
@@ -303,7 +307,7 @@
       title: Phrasal Cohesion and Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-02
+  date: 2014-04-07
   title: Decoding and Inference with Syntactic Translation Models
   lecturer: Lane Schwartz
   reading:
@@ -322,10 +326,6 @@
       url: http://www.cs.berkeley.edu/~klein/papers/klein_and_manning-parsing_and_hypergraphs-IWPT_2001.pdf
       title: Parsing and Hypergraphs
       optional: false
--
-  date: 2014-04-07
-  title: Synchronous Parsing
-  lecturer: Lane Schwartz
 -
   date: 2014-04-09
   title: Harvesting Parallel Documents from the Web
