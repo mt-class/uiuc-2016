@@ -350,14 +350,74 @@
       url: http://mt-archive.info/MTS-1997-Pedtke.pdf
 -
   date: 2014-03-31
-  title: MT in the E.U.
+  title: Discussion
   lecturer: Lane Schwartz
 -
   date: 2014-04-02
-  title: Assimilation, Dissemination, and Communication
+  title: Discussion
   lecturer: Lane Schwartz
 -
   date: 2014-04-07
+  title: Statistical Word-Based MT
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 81-87
+    -
+      author: "Brown, et al"
+      title: "A Statistical Approach to Language Translation"
+      url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
+      grad_level: true
+-
+  date: 2014-04-09
+  title: Statistical Phrase-Based MT
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 127-136
+    -
+      author: "Koehn, et al"
+      title: "Statistical Phrase-Based Translation"
+      url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
+      grad_level: true
+-
+  date: 2014-04-14
+  title: Decoding
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 155-167
+-
+  date: 2014-04-16
+  title: Language Models
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 181-196
+-
+  date: 2014-04-21
+  title: Tree-Based Models
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
+      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
+      pages: 331-346
+-
+  date: 2014-04-23
   title: Free MT on the Internet
   lecturer: Lane Schwartz
   reading:
@@ -374,7 +434,7 @@
       title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
       url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
 -
-  date: 2014-04-09
+  date: 2014-04-28
   title: MT at Autodesk
   lecturer: Lane Schwartz
   reading:
@@ -383,7 +443,7 @@
       title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
 -
-  date: 2014-04-14
+  date: 2014-04-30
   title: Evaluating Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -399,66 +459,6 @@
     author: Papineni, et al
     title: BLEU - A Method for Automatic Evaluation of Machine Translation
     url: http://www.aclweb.org/anthology/P02-1040.pdf
--
-  date: 2014-04-16
-  title: Statistical Word-Based MT
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Word-Based Models\", Ch. 4.0-4.1 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 81-87
-    -
-      author: "Brown, et al"
-      title: "A Statistical Approach to Language Translation"
-      url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
-      grad_level: true
--
-  date: 2014-04-21
-  title: Statistical Phrase-Based MT
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Phrase-Based Models\", Ch. 5.0-5.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 127-136
-    -
-      author: "Koehn, et al"
-      title: "Statistical Phrase-Based Translation"
-      url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
-      grad_level: true
--
-  date: 2014-04-23
-  title: Decoding
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Decoding\", Ch. 6.0-6.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 155-167
--
-  date: 2014-04-28
-  title: Language Models
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Language Models\", Ch. 7.0-7.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 181-196
--
-  date: 2014-04-30
-  title: Tree-Based Models
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Koehn
-      title: "\"Tree-Based Models\", Ch. 11.0-11.2 of \"Statistical Machine Translation\""
-      url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
-      pages: 331-346
 -
   date: 2014-05-05
   title: The Future of MT
