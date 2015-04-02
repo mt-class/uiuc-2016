@@ -286,10 +286,6 @@
       optional: true
 -
   date: 2014-04-07
-  title: WMT Shared Task planning session
-  lecturer: Lane Schwartz
--
-  date: 2014-04-09
   title: Morphology and Factors
   lecturer: Lane Schwartz
   reading:
@@ -301,7 +297,19 @@
       author: Koehn 
       title: Chapter 10.2 and 10.5
 -
+  date: 2014-04-09
+  title: WMT Shared Task
+  lecturer: Lane Schwartz
+-
   date: 2014-04-14
+  title: WMT Shared Task
+  lecturer: Lane Schwartz
+-
+  date: 2014-04-16
+  title: WMT Shared Task
+  lecturer: Lane Schwartz
+-
+  date: 2014-04-21
   title: Synchronous Grammars
   lecturer: Lane Schwartz
   reading:
@@ -323,7 +331,7 @@
       title: Phrasal Cohesion and Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-16
+  date: 2014-04-23
   title: Decoding and Inference with Syntactic Translation Models
   lecturer: Lane Schwartz
   reading:
@@ -343,7 +351,7 @@
       title: Parsing and Hypergraphs
       optional: false
 -
-  date: 2014-04-21
+  date: 2014-04-28
   title: Harvesting Parallel Documents from the Web
   lecturer: Lane Schwartz
   reading:
@@ -363,12 +371,7 @@
       title: Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-23
-  title: TBD
-  lecturer: Lane Schwartz
-  slides: 
--
-  date: 2014-04-28
+  date: 2014-04-30
   title: Crowdsourcing translation
   lecturer: Lane Schwartz
   slides: 
@@ -388,11 +391,6 @@
       url: http://www.cis.upenn.edu/~ccb/publications/language-demographics-of-mechanical-turk.pdf
       title: The Language Demographics of Amazon Mechanical Turk
       optional: false
--
-  date: 2014-04-30
-  title: TBD
-  lecturer: Lane Schwartz
-  slides: 
 -
   date: 2014-05-05
   title: Course wrap-up
