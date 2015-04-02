@@ -254,11 +254,11 @@
   title: Hands-on with Moses EMS
   lecturer: Lane Schwartz
 -
-  date: 2014-03-17
-  title: Hands-on with Moses EMS
+  date: 2014-03-31
+  title: Informal project updates
   lecturer: Lane Schwartz
 -
-  date: 2014-03-31
+  date: 2014-04-02
   title: Re-ordering for phrase-based translation 
   lecturer: Lane Schwartz
   reading:
@@ -273,19 +273,35 @@
       author: Koehn et al
       url: http://www.cis.upenn.edu/~ccb/publications/iwslt05-report.pdf
       title: Description of lexialized reordering in Edinburgh System Description for the 2005 IWSLT Speech Translation Evaluation
-      optional: false
+      optional: true
     -
       author: Collins, Koehn, Kucerova
       url: http://people.csail.mit.edu/mcollins/papers/clause.pdf
       title: Clause Restructuring for Statistical Machine Translation
-      optional: false
+      optional: true
     -
       author: Mark Twain
       url: http://www.crossmyt.com/hc/linghebr/awfgrmlg.html
       title: The Awful German Language
-      optiona: true
+      optional: true
 -
-  date: 2014-04-02
+  date: 2014-04-07
+  title: WMT Shared Task planning session
+  lecturer: Lane Schwartz
+-
+  date: 2014-04-09
+  title: Morphology and Factors
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Koehn
+      title: Errata for Chapter 10
+      url: http://statmt.org/book/errata.html
+    -
+      author: Koehn 
+      title: Chapter 10.2 and 10.5
+-
+  date: 2014-04-14
   title: Synchronous Grammars
   lecturer: Lane Schwartz
   reading:
@@ -307,7 +323,7 @@
       title: Phrasal Cohesion and Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-07
+  date: 2014-04-16
   title: Decoding and Inference with Syntactic Translation Models
   lecturer: Lane Schwartz
   reading:
@@ -327,7 +343,7 @@
       title: Parsing and Hypergraphs
       optional: false
 -
-  date: 2014-04-09
+  date: 2014-04-21
   title: Harvesting Parallel Documents from the Web
   lecturer: Lane Schwartz
   reading:
@@ -346,21 +362,6 @@
       url: http://aclweb.org/anthology//D/D11/D11-1126.pdf
       title: Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation
       optional: false
--
-  date: 2014-04-14
-  title: TBD
-  lecturer: Lane Schwartz
-  slides: 
--
-  date: 2014-04-16
-  title: Paraphrasing
-  lecturer: Lane Schwartz
-  slides: 
--
-  date: 2014-04-21
-  title: TBD
-  lecturer: TBD
-  slides: 
 -
   date: 2014-04-23
   title: TBD
