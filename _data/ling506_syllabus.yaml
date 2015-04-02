@@ -309,6 +309,10 @@
   title: WMT Shared Task
   lecturer: Lane Schwartz
 -
+  date: 2014-04-20
+  title: WMT Shared Task test set distributed
+  lecturer: Lane Schwartz
+-
   date: 2014-04-21
   title: Synchronous Grammars
   lecturer: Lane Schwartz
@@ -350,6 +354,10 @@
       url: http://www.cs.berkeley.edu/~klein/papers/klein_and_manning-parsing_and_hypergraphs-IWPT_2001.pdf
       title: Parsing and Hypergraphs
       optional: false
+-
+  date: 2014-04-27
+  title: WMT Shared Task submission deadline
+  lecturer: Lane Schwartz
 -
   date: 2014-04-28
   title: Harvesting Parallel Documents from the Web
