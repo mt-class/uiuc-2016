@@ -1,9 +1,11 @@
 -
-  date: 14-01-20
+  week: 1
+  date: 2016-01-19
   title: Introduction to Machine Translation
   lecturer: Lane Schwartz
 -
-  date: 2014-01-22
+  week: 1
+  date: 2016-01-21
   title: Universal Language in the 17th century
   slides: slides-history/Universal_Language_in_the_17th_Century.pdf
   lecturer: Lane Schwartz
@@ -47,7 +49,8 @@
       url: http://www.npr.org/templates/story/story.php?storyId=185348917
       optional: true
 -
-  date: 2014-01-27
+  week: 2
+  date: 2016-01-26
   title: Constructed languages in the 18th-21st centuries
   lecturer: Lane Schwartz
   reading:
@@ -75,7 +78,8 @@
       url: http://onlinelibrary.wiley.com/doi/10.1111/j.1460-2466.1955.tb01101.x/pdf
       optional: true
 -
-  date: 2014-01-29
+  week: 2
+  date: 2016-01-28
   title: Machine Translation in the 1930s
   lecturer: Lane Schwartz
   reading:
@@ -89,7 +93,8 @@
       url: http://www.mt-archive.info/00/IJT-2004-Hutchins.pdf  
       
 -
-  date: 2014-02-03
+  week: 3
+  date: 2016-02-02
   title: Machine Translation in the 1940s 
   lecturer: Lane Schwartz
   reading:
@@ -114,7 +119,8 @@
       title: Translation
       url: http://www.mt-archive.info/50/Weaver-1949.pdf
 -
-  date: 2014-02-05
+  week: 3
+  date: 2016-02-04
   title: 1948-1950 The Noisy Channel Model
   lecturer: Lane Schwartz
   reading:
@@ -137,7 +143,8 @@
       url: http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
       grad_level: true
 -
-  date: 2014-02-10
+  week: 4
+  date: 2016-02-09
   title: 1951-1952 - Academic MT Research Begins
   lecturer: Lane Schwartz
   reading:
@@ -159,7 +166,8 @@
       url: http://www.mt-archive.info/50/MT-1954-Reifler.pdf
       optional: true
 -
-  date: 2014-02-12
+  week: 4
+  date: 2016-02-11
   title: 1954 - MT Meets the Public
   lecturer: Lane Schwartz
   reading:
@@ -189,7 +197,8 @@
       url: http://www.mt-archive.info/IBM-1954.pdf
       optional: true   
 -
-  date: 2014-02-17
+  week: 5
+  date: 2016-02-16
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -203,7 +212,8 @@
       url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
       optional: true
 -
-  date: 2014-02-19
+  week: 5
+  date: 2016-02-18
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -234,7 +244,8 @@
       url: http://arstechnica.com/science/2015/02/if-software-looks-like-a-brain-and-acts-like-a-brain-will-we-treat-it-like-one/
       optional: true
 -
-  date: 2014-02-24
+  week: 6
+  date: 2016-02-23
   title: 1954-1966 The Decade of Optimism
   lecturer: Lane Schwartz
   reading:
@@ -261,11 +272,13 @@
       title: Stochastic Methods of Mechanical Translation
       url: http://www.mt-archive.info/50/MT-1956-King.pdf
 -
-  date: 2014-02-26 
-  title: Hands-on
-  lecturer: Lane Schwartz
+  week: 6
+  date: 2016-02-25
+  title: DARPA LORELEI PI Meeting
+  lecturer: NO CLASS
 -
-  date: 2014-03-03 
+  week: 7
+  date: 2016-03-01 
   title: 1966 - The ALPAC Report
   lecturer: Lane Schwartz
   reading:
@@ -279,7 +292,8 @@
       url: http://www.mt-archive.info/50/ALPAC-1966.pdf
       pages: 1-35
 -
-  date: 2014-03-05
+  week: 7
+  date: 2016-03-03
   title: "Approaches to MT: The Vauquois Triangle"
   lecturer: Lane Schwartz
   reading:
@@ -297,7 +311,8 @@
       url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
       optional: true
 -
-  date: 2014-03-10
+  week: 8
+  date: 2016-03-08
   title: Interlingual Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -312,7 +327,8 @@
       url: papers/1995_Melby.pdf
       pages: 43-49
 -
-  date: 2014-03-12
+  week: 8
+  date: 2016-03-10
   title: Exam review
   lecturer: Lane Schwartz
   reading:
@@ -321,12 +337,13 @@
       title: "\"The whisky was invisible\", or Persistent myths of MT"
       url: http://www.mt-archive.info/90/MTNI-1995-Hutchins.pdf
 -
-  date: 2014-03-17
-  title: Exam
+  week: 9
+  date: 2016-03-15
+  title: Mid-term Exam
   lecturer: Lane Schwartz
-
 -
-  date: 2014-03-19
+  week: 9
+  date: 2016-03-17
   title: "MT in the U.S. Government"
   lecturer: Lane Schwartz
   reading:
@@ -349,15 +366,28 @@
       title: "U.S. Government Support and Use of Machine Translation: Current Status"
       url: http://mt-archive.info/MTS-1997-Pedtke.pdf
 -
-  date: 2014-03-31
-  title: Discussion
+  week: 10
+  date: 2016-03-22
+  title: Spring Break
+  lecturer:
+-
+  week: 10
+  date: 2016-03-24
+  title: Spring Break
+  lecturer:
+-
+  week: 11
+  date: 2016-03-29
+  title: 
   lecturer: Lane Schwartz
 -
-  date: 2014-04-02
-  title: Discussion
+  week: 11
+  date: 2016-03-31
+  title: 
   lecturer: Lane Schwartz
 -
-  date: 2014-04-07
+  week: 12
+  date: 2016-04-05
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   reading:
@@ -372,7 +402,8 @@
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
 -
-  date: 2014-04-09
+  week: 12
+  date: 2016-04-07
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   reading:
@@ -387,7 +418,8 @@
       url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
       grad_level: true
 -
-  date: 2014-04-14
+  week: 13
+  date: 2016-04-12
   title: Decoding
   lecturer: Lane Schwartz
   reading:
@@ -397,7 +429,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 155-167
 -
-  date: 2014-04-16
+  week: 13
+  date: 2016-04-14
   title: Language Models
   lecturer: Lane Schwartz
   reading:
@@ -407,7 +440,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 181-196
 -
-  date: 2014-04-21
+  week: 14
+  date: 2016-04-19
   title: Tree-Based Models
   lecturer: Lane Schwartz
   reading:
@@ -417,7 +451,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 331-346
 -
-  date: 2014-04-23
+  week: 14
+  date: 2016-04-21
   title: Free MT on the Internet
   lecturer: Lane Schwartz
   reading:
@@ -434,7 +469,8 @@
       title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
       url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
 -
-  date: 2014-04-28
+  week: 15
+  date: 2016-04-26
   title: MT at Autodesk
   lecturer: Lane Schwartz
   reading:
@@ -443,7 +479,8 @@
       title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
 -
-  date: 2014-04-30
+  week: 15
+  date: 2016-04-28
   title: Evaluating Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -460,7 +497,8 @@
     title: BLEU - A Method for Automatic Evaluation of Machine Translation
     url: http://www.aclweb.org/anthology/P02-1040.pdf
 -
-  date: 2014-05-05
+  week: 16
+  date: 2016-05-03
   title: The Future of MT
   lecturer: Lane Schwartz
   reading:
