@@ -63,12 +63,14 @@ For some or all homework assignments, the correct solution will be presented to 
 <table class="table table-striped"> 
   <tbody>
     <tr>
+      <th>Week</th>
       <th>Date</th>
       <th>Topic</th>
       <th>Readings (<i class="fa fa-info-circle"></i>=optional)</th>
     </tr>
     {% for lecture in site.data.ling506_syllabus %}
     <tr>
+      <td>{{ lecture.week }}</td>
       <td>{{ lecture.date | date: "%b %d" }}</td>
       <td>
         {% if lecture.slides %}<a href="{{ lecture.slides }}">{{ lecture.title }}</a>
