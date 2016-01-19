@@ -29,7 +29,7 @@ Instructor
 <br/>
 
 Time and place
-: Tuesdays and Thursdays 12:30-1:50pm, [Illini Hall](http://ada.fs.illinois.edu/0065.html) [room 23](https://www.cites.illinois.edu/ics/illini_hall.html)
+: Tuesdays and Thursdays 3:30-4:50pm, [Illini Hall](http://ada.fs.illinois.edu/0065.html) [room 23](https://www.cites.illinois.edu/ics/illini_hall.html)
 
 <br/>
 
