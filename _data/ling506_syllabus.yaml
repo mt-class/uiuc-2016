@@ -1,13 +1,16 @@
 -
-  date: 2014-01-20
+  date: 2016-01-19
   title: Introduction
   lecturer: Lane Schwartz
   slides: http://mt-class.org/uiuc/slides/1-intro.pdf 
 -
-  date: 2014-01-22
+  date: 2016-01-21
   title: Hands-on with Moses
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Koehn
+      title: Preface
     -
       author: Koehn
       title: Errata for Chapter 1
@@ -16,7 +19,7 @@
       author: Koehn 
       title: Chapter 1
 -
-  date: 2014-01-27
+  date: 2016-01-26
   title: Approaches to Machine Translation
   lecturer: Lane Schwartz 
   reading:
@@ -34,7 +37,7 @@
       url: http://www.stanford.edu/~mjkay/CurrentState.pdf
       optional: true
 -
-  date: 2014-01-29
+  date: 2016-01-28
   title: Words, Sentences, Corpora 
   lecturer: Lane Schwartz 
   reading:
@@ -46,7 +49,7 @@
       author: Koehn
       title:  Chapter 2
 -
-  date: 2014-02-03
+  date: 2016-02-02
   title: Probability and Statistics 
   lecturer: Lane Schwartz 
   reading:
@@ -58,7 +61,7 @@
       author: Koehn 
       title: Chapter 3
 -
-  date: 2014-02-05
+  date: 2016-02-04
   title: Lexical Translation Models&colon; Part 1
   lecturer: Lane Schwartz
   reading:
@@ -88,7 +91,7 @@
       url: http://aclweb.org/anthology-new/J/J90/J90-2002.pdf
       optional: false
 -
-  date: 2014-02-10
+  date: 2016-02-09
   title: Lexical Translation Models&colon; Part 2
   lecturer: Lane Schwartz
   reading:
@@ -108,7 +111,7 @@
       url: http://aclweb.org/anthology-new/N/N06/N06-1014.pdf
       optional: false
 -
-  date: 2014-02-12
+  date: 2016-02-11
   title: Discriminative alignment models
   lecturer: Lane Schwartz
   reading:
@@ -123,7 +126,7 @@
       title: An Introduction to Conditional Random Fields
       optional: true
 -
-  date: 2014-02-17
+  date: 2016-02-16
   title: Language Models
   lecturer: Lane Schwartz
   reading:
@@ -154,7 +157,7 @@
       title: Coursera Lecture
       url: https://class.coursera.org/nlp/lecture/32
 -
-  date: 2014-02-19
+  date: 2016-02-18
   title: Phrase-based Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -171,7 +174,7 @@
       title: Statistical Phrase-Based Translation
       optional: false
 -
-  date: 2014-02-24
+  date: 2016-02-23
   title: Phrase-based Machine Translation part 2
   lecturer: Lane Schwartz
   reading:
@@ -188,11 +191,7 @@
       title: The Alignment Template Approach to Statistical Machine Translation
       optional: false
 -
-  date: 2014-02-26
-  title: Hands-on
-  lecturer: Lane Schwartz
--
-  date: 2014-03-03
+  date: 2016-03-01
   title: Evaluating translation quality
   lecturer: Lane Schwartz
   reading:
@@ -208,7 +207,7 @@
       url: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.19.9416
       title: BLEU&colon; a Method for Automatic Evaluation of Machine Translation
 -
-  date: 2014-03-05
+  date: 2016-03-03
   title: Evaluating translation quality - part 2
   lecturer: Lane Schwartz
   reading:
@@ -218,7 +217,7 @@
       title: (Meta-) Evaluation of Machine Translation
       optional: false
 -
-  date: 2014-03-10
+  date: 2016-03-08
   title: Discriminative training
   lecturer: Lane Schwartz
   reading:
@@ -235,7 +234,7 @@
       title: Discriminative Training And Maximum Entropy Models For Statistical Machine Translation
       optional: false
 -
-  date: 2014-03-12
+  date: 2016-03-10
   title: Discriminative training - part 2
   lecturer: Lane Schwartz
   reading:
@@ -250,15 +249,15 @@
       title: Tuning as Ranking
       optional: false
 -
-  date: 2014-03-17
+  date: 2016-03-15
   title: Hands-on with Moses EMS
   lecturer: Lane Schwartz
 -
-  date: 2014-03-31
+  date: 2016-03-17
   title: Informal project updates
   lecturer: Lane Schwartz
 -
-  date: 2014-04-02
+  date: 2016-03-29
   title: Re-ordering for phrase-based translation 
   lecturer: Lane Schwartz
   reading:
@@ -285,7 +284,7 @@
       title: The Awful German Language
       optional: true
 -
-  date: 2014-04-07
+  date: 2016-03-31
   title: Morphology and Factors
   lecturer: Lane Schwartz
   reading:
@@ -297,23 +296,19 @@
       author: Koehn 
       title: Chapter 10.2 and 10.5
 -
-  date: 2014-04-09
+  date: 2016-04-05
   title: WMT Shared Task
   lecturer: Lane Schwartz
 -
-  date: 2014-04-14
+  date: 2016-04-07
   title: WMT Shared Task
   lecturer: Lane Schwartz
 -
-  date: 2014-04-16
+  date: 2016-04-12
   title: WMT Shared Task
   lecturer: Lane Schwartz
 -
-  date: 2014-04-20
-  title: WMT Shared Task test set distributed
-  lecturer: Lane Schwartz
--
-  date: 2014-04-21
+  date: 2016-04-14
   title: Synchronous Grammars
   lecturer: Lane Schwartz
   reading:
@@ -335,7 +330,11 @@
       title: Phrasal Cohesion and Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-23
+  date: 2016-04-18
+  title: WMT Shared Task test set distributed
+  lecturer: Lane Schwartz
+-
+  date: 2016-04-19
   title: Decoding and Inference with Syntactic Translation Models
   lecturer: Lane Schwartz
   reading:
@@ -355,11 +354,7 @@
       title: Parsing and Hypergraphs
       optional: false
 -
-  date: 2014-04-27
-  title: WMT Shared Task submission deadline
-  lecturer: Lane Schwartz
--
-  date: 2014-04-28
+  date: 2016-04-21
   title: Harvesting Parallel Documents from the Web
   lecturer: Lane Schwartz
   reading:
@@ -379,7 +374,11 @@
       title: Watermarking the Outputs of Structured Prediction with an application in Statistical Machine Translation
       optional: false
 -
-  date: 2014-04-30
+  date: 2016-04-24
+  title: WMT Shared Task submission deadline
+  lecturer: Lane Schwartz
+-
+  date: 2016-04-26
   title: Crowdsourcing translation
   lecturer: Lane Schwartz
   slides: 
@@ -400,7 +399,7 @@
       title: The Language Demographics of Amazon Mechanical Turk
       optional: false
 -
-  date: 2014-05-05
+  date: 2016-05-05
   title: Course wrap-up
   lecturer: Lane Schwartz
   slides: 
