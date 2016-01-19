@@ -25,10 +25,9 @@ Violations of Academic Integrity include, but are not limited to, copying, cheat
 <h2>Grading</h2>
 
 <ul>
-<li><b>Daily Participation</b>: 5%</li>
-<li><b>Daily Quizzes</b>: 5%</li>
-<li><b>Homework Assignments</b>: 65%</li>
-<li><b>Final Project</b>: 25%</li>
+<li><b>Daily Participation / Quizzes</b>: 15%</li>
+<li><b>Midterm Exam</b>: 15%</li>
+<li><b>Homework Assignments</b>: 70%</li>
 </ul>
 
 <p>
