@@ -53,7 +53,7 @@ Homework assignments are expected to be turned in on time. Homework turned in la
 </p>
 
 <p>
-For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. Under no circumstances will late work be accepted after the solution has been presented to the class.
+For some or all homework assignments, the correct solution will be presented to the class after the homework deadline. <strong>Under no circumstances will late work be accepted after the solution has been presented to the class.</strong>
 </p>
 
 <h2>Schedule and Readings</h2>
