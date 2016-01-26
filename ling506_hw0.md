@@ -8,7 +8,7 @@ active_tab: homework
 ---
 
 <div class="alert alert-info">
-  Due Saturday 7 February 2015, 11:59pm.
+  Due Saturday 30 January 2016, 11:59pm.
 </div>
 
 Homework & Git setup
@@ -42,7 +42,7 @@ words translate? Do you think that the prefix "ok-" corresponds to something?
 
 3. Follow [these instructions](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) to set up your .gitconfig file.
 
-4. Go to the [class Github page](https://github.com/2015-Spring-UIUC-LING506) and follow the link for `yourGithubUsername-hw0`
+4. Go to the [class Github page](https://github.com/2016-Spring-UIUC-LING506) and follow the link for `yourGithubUsername-hw0`
 
 5. Clone your HW0 repository to the class Linux server.
 `git clone https://github.com/2015-Spring-UIUC-LING506/yourGithubUsername-hw0.git`
