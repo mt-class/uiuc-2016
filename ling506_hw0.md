@@ -38,7 +38,7 @@ words translate? Do you think that the prefix "ok-" corresponds to something?
 *You do not have to turn anything in for this step.*
 
 2. Log in to the class Linux server using your netid.
-`ssh yourNetID@ling506.atlas.illinois.edu`
+`ssh yourNetID@cl.linguistics.illinois.edu`
 
 3. Follow [these instructions](http://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) to set up your .gitconfig file.
 
