@@ -3,15 +3,15 @@ layout: ling506_frame
 img: rosetta
 img_url: http://www.flickr.com/photos/calotype46/6683293633/
 caption: Rosetta stone (credit&#59; calotype46)
-title: Homework 1 | Alignment
+title: Homework | Alignment
 active_tab: homework
 ---
 
 <div class="alert alert-info">
-  Due Saturday, 21 February 2015, 11:59pm.
+  Due Saturday, 20 February 2016, 11:59pm.
 </div>
 
-Alignment <span class="text-muted">Challenge Problem 1</span>
+Alignment
 =============================================================
 
 Aligning words is a key task in machine translation. We start with
@@ -59,10 +59,10 @@ does not capture every nuance, but it is still very useful.
 Getting Started
 ---------------
 
-ssh in to `ling506.atlas.uiuc.edu`
+ssh in to `cl.linguistics.illinois.edu`
 Once you've logged in, run this command:
 
-    git clone https://github.com/2015-Spring-UIUC-LING506/YOUR_GITHUB_USERNAME_GOES_HERE-hw1.git
+    git clone https://github.com/2016-Spring-UIUC-LING506/YOUR_GITHUB_USERNAME_GOES_HERE-alignment.git
 
 You will find a python program called
 `align`, which contains a complete but very simple alignment algorithm.
@@ -156,13 +156,9 @@ Ground Rules
 ------------
 
 * For this assignment you _must_ work independently. You _may not_ work in groups.
-* You must turn in three things:
+* You must turn in:
   1. All of your work, including your code and LaTeX writeup, must be checked in
-     and pushed to your HW1 github repository.
-  1. You must submit your assignment, using the following command:
-
-    /home/lanes/Homeworks/hw1/submit.sh
-
+     and pushed to the appropriate github repository.
   1. A clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
      clear enough that one of your fellow students could re-implement it 
