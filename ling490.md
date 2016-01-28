@@ -27,7 +27,7 @@ Instructor
 <br/>
 
 Time and place
-: Tuesdays and Thursdays 2:00-3:20pm, [Illini Hall](http://ada.fs.illinois.edu/0065.html) [room 23](https://www.cites.illinois.edu/ics/illini_hall.html)
+: Tuesdays and Thursdays 2:00-3:20pm, 1203 1/2 W. Nevada Street [Computer Lab](https://techservices.illinois.edu/services/computer-labs/nevada-building-computer-lab)
 
 <br/>
 
