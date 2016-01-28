@@ -8,10 +8,10 @@ active_tab: homework
 ---
 
 <div class="alert alert-info">
-This homework is due Saturday 7 March 2015, 11:59pm.
+This homework is due Saturday 5 March 2015, 11:59pm.
 </div>
 
-Decoding:  <span class="text-muted">Challenge Problem 2</span>
+Decoding
 =============================================================
 
 Decoding is the problem of taking an input sentence in a foreign language:
@@ -42,8 +42,12 @@ This means that there is **no** distortion model or segmentation model.
 
 ## Getting Started
 
+ssh in to `cl.linguistics.illinois.edu`
+Once you've logged in, run this command:
 
-In your hw2 github repository, you will find a Python program called
+    git clone https://github.com/2016-Spring-UIUC-LING506/YOUR_GITHUB_USERNAME_GOES_HERE-decoding.git
+
+In your github repository, you will find a Python program called
 `decode`, which is an implementation of a simple stack decoder.
 The decoder translates monotonically &mdash; that is, without reordering the
 English phrases &mdash; and by default it also uses very strict pruning limits, 
@@ -238,7 +242,7 @@ problem, and you can try anything you want as long as you follow the ground rule
 * You must turn in your code and writeup:
   1. All of your work must be regularly checked in to github. In order to receive full credit, you must have regular checkins to your repository, and each checkin must have a reasonable commit message.
   1. All of your work, including your code and LaTeX writeup, must be checked in
-     and pushed to your HW2 github repository.
+     and pushed to your github repository.
   1. Your writeup must be a clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
      clear enough that one of your fellow students could re-implement it 
