@@ -24,7 +24,7 @@ real-word artificial intelligence problem.
 <br/>
 
 Instructor
-: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours (to be announced) in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019, and by appointment
+: [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Wednesdays 3-4 PM in [Foreign Languages Building](https://www.fs.uiuc.edu/ada/0172.html), room 4019, and by appointment
 
 <br/>
 
