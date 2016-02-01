@@ -235,7 +235,7 @@ problem, and you can try anything you want as long as you follow the ground rule
 
 * For this assignment you may work independently, or in groups.
   1. Groups must be publicly announced in class
-  1. Every member of the group must reply to the Instructor's announcement of this HW on Piazza, listing all group members in the reply
+  1. Every member of the group must reply to [the Instructor's announcement of this HW on Piazza](https://piazza.com/class/ijlmrk2r3rx7ir?cid=13), listing all group members in the reply
   1. Everyone in the group will receive the same grade on the assignment
   1. Claims regarding who did or did not do what work will be completely ignored
   
