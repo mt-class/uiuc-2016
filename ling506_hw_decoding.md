@@ -246,7 +246,7 @@ problem, and you can try anything you want as long as you follow the ground rule
   1. Your writeup must be a clear, mathematical description of your algorithm and its motivation
      written in scientific style. This needn't be long, but it should be
      clear enough that one of your fellow students could re-implement it 
-     exactly. We will review examples in class before the due date.
+     exactly.
 * You do not need any other data than what is provided. You should feel 
    free to use additional codebases and libraries _except for those expressly intended to decode machine translation models_. 
    You must write your
