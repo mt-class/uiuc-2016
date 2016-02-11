@@ -125,22 +125,6 @@
 -
   week: 4
   date: 2016-02-11
-  title: Discriminative alignment models
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Blunsom and Cohn
-      url: http://aclweb.org/anthology-new/P/P06/P06-1009.pdf
-      title: Discriminative Word Alignment with Conditional Random Fields
-      optional: false
-    -
-      author: Sutton and McCallum
-      url: http://homepages.inf.ed.ac.uk/csutton/publications/crftut-fnt.pdf
-      title: An Introduction to Conditional Random Fields
-      optional: true
--
-  week: 5
-  date: 2016-02-16
   title: Language Models
   lecturer: Lane Schwartz
   reading:
@@ -172,7 +156,7 @@
       url: https://class.coursera.org/nlp/lecture/32
 -
   week: 5
-  date: 2016-02-18
+  date: 2016-02-16
   title: Phrase-based Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -189,10 +173,10 @@
       title: Statistical Phrase-Based Translation
       optional: false
 -
-  week: 6
-  date: 2016-02-23
+  week: 5
+  date: 2016-02-18
   title: Phrase-based Machine Translation part 2
-  lecturer: NO CLASS
+  lecturer: Lane Schwartz
   reading:
     -
       author: Koehn
@@ -206,6 +190,11 @@
       url: http://aclweb.org/anthology/J/J04/J04-4002.pdf
       title: The Alignment Template Approach to Statistical Machine Translation
       optional: false
+-
+  week: 6
+  date: 2016-02-23
+  title: DARPA LORELEI PI Meeting
+  lecturer: NO CLASS
 -
   week: 6
   date: 2016-02-25
