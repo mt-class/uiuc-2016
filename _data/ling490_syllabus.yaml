@@ -204,6 +204,89 @@
 -
   week: 5
   date: 2016-02-16
+  title: 1954-1966 The Decade of Optimism
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: Milestones in MT - Bar-Hillel and the nonfeasibility of FAHQT
+      url: http://www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
+    -
+      author: Bar-Hillel
+      title: The Present Status of Automatic Translation of Languages
+      url: http://www.mt-archive.info/Bar-Hillel-1960.pdf
+    -
+      author: Yngve
+      title: Sentence-for-sentence translation
+      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
+      grad_level: true
+    -
+      author: Parker-Rhodes
+      title: An Electronic Computer Program for Translating Chinese into English
+      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
+      optional: true
+    -
+      author: King
+      title: Stochastic Methods of Mechanical Translation
+      url: http://www.mt-archive.info/50/MT-1956-King.pdf
+-
+  week: 5
+  date: 2016-02-18
+  title: 1966 - The ALPAC Report
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hutchins
+      title: ALPAC - the (in)famous report
+      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
+    -
+      author: ALPAC
+      title: Language and Machines - Computers in Translation and Linguistics
+      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
+      pages: 1-35
+-
+  week: 6
+  date: 2016-02-23
+  title: "Approaches to MT: The Vauquois Triangle"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Vauquois
+      title: "Automatic Translation - A Survey of Different Approaches"
+      url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
+    -
+      author: "Hutchins & Somers"
+      title: "An Introduction to machine translation (Ch. 4)"
+      url: http://www.hutchinsweb.me.uk/IntroMT-4.pdf
+    -
+      author: Dorr, et al
+      title: "A Survey of Current Paradigms in Machine Translation"
+      url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
+      optional: true
+-
+  week: 6
+  date: 2016-02-25
+  title: DARPA LORELEI PI Meeting
+  lecturer: NO CLASS
+-
+  week: 7
+  date: 2016-03-01
+  title: Interlingual Machine Translation
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Delavenay
+      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
+      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
+      pages: 46-54
+    -
+      author: Melby
+      title: The Possibility of Language
+      url: papers/1995_Melby.pdf
+      pages: 43-49
+-
+  week: 7
+  date: 2016-03-03
   title: AI and the Turing Test
   lecturer: Lane Schwartz
   reading:
@@ -217,8 +300,8 @@
       url: http://dl.acm.org.proxy2.library.illinois.edu/ft_gateway.cfm?id=365168&ftid=64039&dwn=1
       optional: true
 -
-  week: 5
-  date: 2016-02-18
+  week: 8
+  date: 2016-03-08
   title: The Chinese Room
   lecturer: Lane Schwartz
   reading:
@@ -248,89 +331,6 @@
       title: If software looks like a brain and acts like a brain—will we treat it like one?
       url: http://arstechnica.com/science/2015/02/if-software-looks-like-a-brain-and-acts-like-a-brain-will-we-treat-it-like-one/
       optional: true
--
-  week: 6
-  date: 2016-02-23
-  title: 1954-1966 The Decade of Optimism
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hutchins
-      title: Milestones in MT - Bar-Hillel and the nonfeasibility of FAHQT
-      url: http://www.mt-archive.info/90/IJLangDoc-1999-Hutchins.pdf
-    -
-      author: Bar-Hillel
-      title: The Present Status of Automatic Translation of Languages
-      url: http://www.mt-archive.info/Bar-Hillel-1960.pdf
-    -
-      author: Yngve
-      title: Sentence-for-sentence translation
-      url: http://www.mt-archive.info/50/MT-1955-Yngve.pdf
-      grad_level: true
-    -
-      author: Parker-Rhodes
-      title: An Electronic Computer Program for Translating Chinese into English
-      url: http://www.mt-archive.info/50/MT-1956-Parker-Rhodes.pdf
-      optional: true
-    -
-      author: King
-      title: Stochastic Methods of Mechanical Translation
-      url: http://www.mt-archive.info/50/MT-1956-King.pdf
--
-  week: 6
-  date: 2016-02-25
-  title: DARPA LORELEI PI Meeting
-  lecturer: NO CLASS
--
-  week: 7
-  date: 2016-03-01 
-  title: 1966 - The ALPAC Report
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Hutchins
-      title: ALPAC - the (in)famous report
-      url: http://www.hutchinsweb.me.uk/MTNI-14-1996.pdf
-    -
-      author: ALPAC
-      title: Language and Machines - Computers in Translation and Linguistics
-      url: http://www.mt-archive.info/50/ALPAC-1966.pdf
-      pages: 1-35
--
-  week: 7
-  date: 2016-03-03
-  title: "Approaches to MT: The Vauquois Triangle"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Vauquois
-      title: "Automatic Translation - A Survey of Different Approaches"
-      url: http://www.mt-archive.info/70/SMIL-1976-Vauquois.pdf
-    -
-      author: "Hutchins & Somers"
-      title: "An Introduction to machine translation (Ch. 4)"
-      url: http://www.hutchinsweb.me.uk/IntroMT-4.pdf
-    -
-      author: Dorr, et al
-      title: "A Survey of Current Paradigms in Machine Translation"
-      url: http://www.umiacs.umd.edu/users/bonnie/Publications/newai98.pdf
-      optional: true
--
-  week: 8
-  date: 2016-03-08
-  title: Interlingual Machine Translation
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Delavenay
-      title: "\"Languages, Interlanguage, and Metalanguage\", Ch. 4.1 of \"An Introduction to Machine Translation\""
-      url: http://www.mt-archive.info/50/Delavenay-1960.pdf
-      pages: 46-54
-    -
-      author: Melby
-      title: The Possibility of Language
-      url: papers/1995_Melby.pdf
-      pages: 43-49
 -
   week: 8
   date: 2016-03-10
