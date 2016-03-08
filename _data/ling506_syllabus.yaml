@@ -220,17 +220,6 @@
 -
   week: 7
   date: 2016-03-03
-  title: Evaluating translation quality - part 2
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Callison-Burch, Fordyce, Koehn, Monz and Schroeder
-      url: http://www.cis.upenn.edu/~ccb/publications/meta-evaluation-of-machine-tranlsion.pdf
-      title: (Meta-) Evaluation of Machine Translation
-      optional: false
--
-  week: 8
-  date: 2016-03-08
   title: Discriminative training
   lecturer: Lane Schwartz
   reading:
@@ -246,46 +235,15 @@
       url: http://aclweb.org/anthology/P/P02/P02-1038.pdf
       title: Discriminative Training And Maximum Entropy Models For Statistical Machine Translation
       optional: false
--
-  week: 8
-  date: 2016-03-10
-  title: Discriminative training - part 2
-  lecturer: Lane Schwartz
-  reading:
     -
       author: Och
       url: http://www.aclweb.org/anthology/P03-1021
       title: Minimum Error Rate Training In Statistical Machine Translation
       optional: false
-    -
-      author: Hopkins and May
-      url: http://www.aclweb.org/anthology/D/D11/D11-1125.pdf
-      title: Tuning as Ranking
-      optional: false
 -
-  week: 9
-  date: 2016-03-15
-  title: Hands-on with Moses EMS
-  lecturer: Lane Schwartz
--
-  week: 9
-  date: 2016-03-17
-  title: Informal project updates
-  lecturer: Lane Schwartz
--
-  week: 10
-  date: 2016-03-22
-  title: Spring Break
-  lecturer: NO CLASS
--
-  week: 10
-  date: 2016-03-24
-  title: Spring Break
-  lecturer: NO CLASS
--
-  week: 11
-  date: 2016-03-29
-  title: Re-ordering for phrase-based translation 
+  week: 8
+  date: 2016-03-08
+  title: Re-ordering for phrase-based translation
   lecturer: Lane Schwartz
   reading:
     -
@@ -310,6 +268,36 @@
       url: http://www.crossmyt.com/hc/linghebr/awfgrmlg.html
       title: The Awful German Language
       optional: true
+-
+  week: 8
+  date: 2016-03-10
+  title: 
+  lecturer: Lane Schwartz
+-
+  week: 9
+  date: 2016-03-15
+  title: Hands-on with Moses EMS
+  lecturer: Lane Schwartz
+-
+  week: 9
+  date: 2016-03-17
+  title: Informal project updates
+  lecturer: Lane Schwartz
+-
+  week: 10
+  date: 2016-03-22
+  title: Spring Break
+  lecturer: NO CLASS
+-
+  week: 10
+  date: 2016-03-24
+  title: Spring Break
+  lecturer: NO CLASS
+-
+  week: 11
+  date: 2016-03-29
+  title:  
+  lecturer: Lane Schwartz
 -
   week: 11
   date: 2016-03-31
