@@ -383,16 +383,6 @@
 -
   week: 11
   date: 2016-03-29
-  title: 
-  lecturer: Lane Schwartz
--
-  week: 11
-  date: 2016-03-31
-  title: 
-  lecturer: Lane Schwartz
--
-  week: 12
-  date: 2016-04-05
   title: Statistical Word-Based MT
   lecturer: Lane Schwartz
   reading:
@@ -407,8 +397,8 @@
       url: http://aclweb.org/anthology/C/C88/C88-1016.pdf
       grad_level: true
 -
-  week: 12
-  date: 2016-04-07
+  week: 11
+  date: 2016-03-31
   title: Statistical Phrase-Based MT
   lecturer: Lane Schwartz
   reading:
@@ -423,8 +413,8 @@
       url: http://aclweb.org/anthology/N/N03/N03-1017.pdf
       grad_level: true
 -
-  week: 13
-  date: 2016-04-12
+  week: 12
+  date: 2016-04-05
   title: Decoding
   lecturer: Lane Schwartz
   reading:
@@ -434,8 +424,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 155-167
 -
-  week: 13
-  date: 2016-04-14
+  week: 12
+  date: 2016-04-07
   title: Language Models
   lecturer: Lane Schwartz
   reading:
@@ -445,8 +435,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 181-196
 -
-  week: 14
-  date: 2016-04-19
+  week: 13
+  date: 2016-04-12
   title: Tree-Based Models
   lecturer: Lane Schwartz
   reading:
@@ -456,8 +446,8 @@
       url: http://proquest.safaribooksonline.com/?uiCode=uiuc&xmlId=9781139637565
       pages: 331-346
 -
-  week: 14
-  date: 2016-04-21
+  week: 13
+  date: 2016-04-14
   title: Free MT on the Internet
   lecturer: Lane Schwartz
   reading:
@@ -474,8 +464,8 @@
       title: "Online and Free! Ten Years of Online Machine Translation: Origins, Developments, Current Use and Future Prospects"
       url: http://www.mt-archive.info/MTS-2007-Gaspari-1.pdf
 -
-  week: 15
-  date: 2016-04-26
+  week: 14
+  date: 2016-04-19
   title: MT at Autodesk
   lecturer: Lane Schwartz
   reading:
@@ -484,8 +474,8 @@
       title: "A Productivity Test of Statistical Machine Translation Post-Editing in a Typical Localization Context"
       url: https://ufal.mff.cuni.cz/pbml/93/art-plitt-masselot.pdf
 -
-  week: 15
-  date: 2016-04-28
+  week: 14
+  date: 2016-04-21
   title: Evaluating Machine Translation
   lecturer: Lane Schwartz
   reading:
@@ -502,8 +492,8 @@
     title: BLEU - A Method for Automatic Evaluation of Machine Translation
     url: http://www.aclweb.org/anthology/P02-1040.pdf
 -
-  week: 16
-  date: 2016-05-03
+  week: 15
+  date: 2016-04-26
   title: The Future of MT
   lecturer: Lane Schwartz
   reading:
@@ -515,4 +505,13 @@
       author: Bright
       title: "Skype Translator is the most futuristic thing I've ever used"
       url: http://arstechnica.com/information-technology/2014/12/skype-translator-is-the-most-futuristic-thing-ive-ever-used/
-
+-
+  week: 15
+  date: 2016-04-28
+  title: Exam review
+  lecturer: Lane Schwartz
+-
+  week: 16
+  date: 2016-05-03
+  title: Final exam
+  lecturer: Lane Schwartz
